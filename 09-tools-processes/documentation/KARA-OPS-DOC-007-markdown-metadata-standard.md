@@ -16,6 +16,7 @@ language:
 
 <div align="center">
   <img src="../../04-brand/assets/logo/kara-symbol.svg" alt="Kara Logo" width="150" />
+
 </div>
 
 # Markdown Metadata Header Standard
@@ -33,7 +34,6 @@ This standard applies to:
 - Phrifan
 - Future subsidiary companies
 
-
 # 1. Metadata Header Philosophy
 
 Every Markdown document must begin with a YAML metadata header.
@@ -46,7 +46,6 @@ The metadata header provides:
 - Lifecycle status
 - Document relationships
 - Organizational context
-
 
 # 2. Standard Metadata Structure
 
@@ -74,11 +73,9 @@ related_documents:
 ---
 ```
 
-
 # 3. Required Metadata Fields
 
 The following fields are mandatory for every document.
-
 
 ## ID
 
@@ -98,13 +95,11 @@ Rules:
 - Must never change during document lifecycle.
 - Must follow Kara naming convention.
 
-
 Example:
 
 ```yaml
 id: KARA-OPS-DOC-007
 ```
-
 
 ## Title
 
@@ -123,13 +118,11 @@ Rules:
 - Must match the document title.
 - Must clearly describe the document purpose.
 
-
 Example:
 
 ```yaml
 title: Markdown Metadata Header Standard
 ```
-
 
 ## Category
 
@@ -151,7 +144,6 @@ category: Engineering
 category: Product
 category: Security
 ```
-
 
 ## Type
 
@@ -175,7 +167,6 @@ type: ADR
 type: SOP
 ```
 
-
 ## Version
 
 Field:
@@ -193,13 +184,11 @@ Rules:
 - Must follow Semantic Versioning.
 - Must increase according to document changes.
 
-
 Example:
 
 ```yaml
 version: 1.0.0
 ```
-
 
 ## Status
 
@@ -224,13 +213,11 @@ Deprecated
 Archived
 ```
 
-
 Example:
 
 ```yaml
 status: Active
 ```
-
 
 ## Owner
 
@@ -244,13 +231,11 @@ Purpose:
 
 Defines the person or team responsible for document accuracy.
 
-
 Example:
 
 ```yaml
 owner: Kara Holding
 ```
-
 
 ## Author
 
@@ -264,13 +249,11 @@ Purpose:
 
 Defines the creator of the document.
 
-
 Example:
 
 ```yaml
 author: Erfan Abouei
 ```
-
 
 ## Created At
 
@@ -284,20 +267,17 @@ Purpose:
 
 Defines the creation date.
 
-
 Format:
 
 ```text
 YYYY-MM-DD
 ```
 
-
 Example:
 
 ```yaml
 created_at: 2026-07-25
 ```
-
 
 ## Updated At
 
@@ -311,13 +291,11 @@ Purpose:
 
 Defines the latest modification date.
 
-
 Example:
 
 ```yaml
 updated_at: 2026-07-25
 ```
-
 
 ## Language
 
@@ -331,12 +309,10 @@ Purpose:
 
 Defines the official document language.
 
-
 Rules:
 
 - Documentation language is English.
 - Australian English spelling should be used when applicable.
-
 
 Example:
 
@@ -345,9 +321,7 @@ language:
   - English
 ```
 
-
 # 4. Optional Metadata Fields
-
 
 ## Company
 
@@ -361,14 +335,12 @@ Purpose:
 
 Defines which Kara company owns the document.
 
-
 Examples:
 
 ```yaml
 company: Kara Holding
 company: Chasha
 ```
-
 
 ## Product
 
@@ -382,13 +354,11 @@ Purpose:
 
 Defines the related product or service.
 
-
 Examples:
 
 ```yaml
 product: Chasha Restaurant OS
 ```
-
 
 ## Department
 
@@ -402,7 +372,6 @@ Purpose:
 
 Defines the responsible department.
 
-
 Examples:
 
 ```yaml
@@ -410,7 +379,6 @@ department: Engineering
 department: Product
 department: Design
 ```
-
 
 ## Reviewer
 
@@ -424,13 +392,11 @@ Purpose:
 
 Defines the person or team responsible for document review.
 
-
 Example:
 
 ```yaml
 reviewer: Kara Documentation Team
 ```
-
 
 ## Tags
 
@@ -444,7 +410,6 @@ Purpose:
 
 Provides searchable keywords.
 
-
 Example:
 
 ```yaml
@@ -453,7 +418,6 @@ tags:
   - documentation
   - standard
 ```
-
 
 ## Related Documents
 
@@ -467,7 +431,6 @@ Purpose:
 
 Defines connections between related documents.
 
-
 Example:
 
 ```yaml
@@ -476,34 +439,27 @@ related_documents:
   - KARA-OPS-DOC-006
 ```
 
-
 # 5. Metadata Rules
-
 
 ## Rule 1
 
 Every Markdown document must include a metadata header.
 
-
 ## Rule 2
 
 Required fields cannot be removed.
-
 
 ## Rule 3
 
 Optional fields should be added when they provide meaningful context.
 
-
 ## Rule 4
 
 Metadata values must always remain accurate.
 
-
 ## Rule 5
 
 Metadata changes must follow document versioning rules.
-
 
 # 6. Complete Example
 
@@ -533,18 +489,16 @@ related_documents:
 ---
 ```
 
-
 # Final Statement
 
 The Kara Markdown Metadata Header Standard ensures every document has a consistent identity, ownership model, and lifecycle tracking system.
 
 All Kara Holding companies must follow this metadata standard for every Markdown document.
 
-
 ---
 
 # Document History
 
-| Version | Date | Author | Description |
-|---|---|---|---|
-| 1.0.0 | 2026-07-25 | Erfan Abouei | Initial Markdown metadata header standard |
+| Version | Date       | Author       | Description                               |
+| ------- | ---------- | ------------ | ----------------------------------------- |
+| 1.0.0   | 2026-07-25 | Erfan Abouei | Initial Markdown metadata header standard |

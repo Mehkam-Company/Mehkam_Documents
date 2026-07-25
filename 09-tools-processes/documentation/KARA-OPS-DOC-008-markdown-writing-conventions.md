@@ -16,6 +16,7 @@ language:
 
 <div align="center">
   <img src="../../04-brand/assets/logo/kara-symbol.svg" alt="Kara Logo" width="150" />
+
 </div>
 
 # Markdown Writing and Formatting Conventions Standard
@@ -39,7 +40,6 @@ This standard applies to:
 - Phrifan
 - Future subsidiary companies
 
-
 # 1. Writing Philosophy
 
 Kara documentation follows a professional technical writing approach.
@@ -53,7 +53,6 @@ The main principles are:
 - Structure over personal style
 - Consistency across all documents
 
-
 # 2. Language Rules
 
 ## Official Language
@@ -61,7 +60,6 @@ The main principles are:
 All Kara documentation must be written in English.
 
 Australian English spelling should be used when applicable.
-
 
 ## Technical Terms
 
@@ -89,7 +87,6 @@ System Design
 
 when referring to official technical concepts.
 
-
 # 3. Tone and Writing Style
 
 Documentation writing must be:
@@ -100,7 +97,6 @@ Documentation writing must be:
 - Clear
 - Technical
 
-
 Avoid:
 
 - Personal opinions
@@ -108,20 +104,17 @@ Avoid:
 - Emotional language
 - Unclear statements
 
-
 Incorrect:
 
 ```text
 I think this architecture is better.
 ```
 
-
 Correct:
 
 ```text
 This architecture provides better scalability and maintainability.
 ```
-
 
 # 4. Sentence Rules
 
@@ -131,20 +124,17 @@ Documentation sentences should:
 - Avoid unnecessary words.
 - Use active voice where possible.
 
-
 Preferred:
 
 ```text
 The system validates user permissions before accessing resources.
 ```
 
-
 Avoid:
 
 ```text
 User permissions are something that should probably be checked before resources are accessed.
 ```
-
 
 # 5. Heading Conventions
 
@@ -160,13 +150,11 @@ Standard hierarchy:
 ### Detail Section
 ```
 
-
 Rules:
 
 - Do not skip heading levels.
 - Do not use headings only for visual size.
 - Each heading must represent a logical section.
-
 
 # 6. Paragraph Rules
 
@@ -176,16 +164,13 @@ Paragraphs must be:
 - Focused
 - Easy to scan
 
-
 Rules:
 
 - Avoid large blocks of text.
 - Separate different concepts into different paragraphs.
 - Use lists when information becomes repetitive.
 
-
 # 7. List Conventions
-
 
 ## Unordered Lists
 
@@ -196,7 +181,6 @@ Use unordered lists for:
 - Characteristics
 - Examples
 
-
 Example:
 
 ```md
@@ -204,7 +188,6 @@ Example:
 - Secure architecture
 - Scalable design
 ```
-
 
 ## Ordered Lists
 
@@ -214,7 +197,6 @@ Use ordered lists for:
 - Processes
 - Procedures
 
-
 Example:
 
 ```md
@@ -222,7 +204,6 @@ Example:
 2. Review the content.
 3. Approve the changes.
 ```
-
 
 # 8. Table Conventions
 
@@ -235,16 +216,14 @@ Recommended usage:
 - Specifications
 - Status tracking
 
-
 Standard format:
 
 ```md
-| Field | Description |
-|---|---|
-| id | Unique document identifier |
-| version | Current document version |
+| Field   | Description                |
+| ------- | -------------------------- |
+| id      | Unique document identifier |
+| version | Current document version   |
 ```
-
 
 Rules:
 
@@ -253,11 +232,9 @@ Rules:
 - Avoid excessive table complexity.
 - Use tables instead of repeated structured text.
 
-
 # 9. Code Block Standards
 
 Code blocks must always define their language when applicable.
-
 
 Correct:
 
@@ -266,7 +243,6 @@ version: 1.0.0
 status: Active
 ```
 
-
 Avoid:
 
 ```
@@ -274,24 +250,27 @@ version: 1.0.0
 status: Active
 ```
 
-
 Supported examples:
 
 ```yaml
+
 ```
 
 ```json
+
 ```
 
 ```typescript
+
 ```
 
 ```bash
+
 ```
 
 ```sql
-```
 
+```
 
 # 10. Image and Asset References
 
@@ -303,13 +282,11 @@ Rules:
 - Use meaningful filenames.
 - Avoid external image hosting when possible.
 
-
 Example:
 
 ```md
 <img src="../../assets/logo/kara-logo.svg" />
 ```
-
 
 # 11. Link References
 
@@ -321,13 +298,11 @@ Correct:
 See the Architecture Decision Record for authentication design.
 ```
 
-
 Avoid:
 
 ```md
 Click here.
 ```
-
 
 # 12. Terminology Rules
 
@@ -347,9 +322,7 @@ Lifecycle
 
 Avoid replacing official terms with informal alternatives.
 
-
 # 13. Do / Don't Guidelines
-
 
 ## Do
 
@@ -359,7 +332,6 @@ Avoid replacing official terms with informal alternatives.
 - Maintain consistent terminology.
 - Update document history.
 
-
 ## Don't
 
 - Write informal explanations.
@@ -368,9 +340,7 @@ Avoid replacing official terms with informal alternatives.
 - Use unclear naming.
 - Ignore version updates.
 
-
 # 14. Documentation Quality Rules
-
 
 Every document must:
 
@@ -380,21 +350,18 @@ Every document must:
 - Follow naming conventions.
 - Include document history.
 
-
 # 15. Formatting Rules Summary
 
-
-| Element | Standard |
-|---|---|
-| Language | English |
-| Spelling | Australian English when applicable |
-| Heading Style | Markdown hierarchy |
-| Tables | Header required |
-| Lists | Use based on purpose |
-| Code Blocks | Language identifier required |
-| Tone | Professional and technical |
-| Structure | Kara Markdown Standard |
-
+| Element       | Standard                           |
+| ------------- | ---------------------------------- |
+| Language      | English                            |
+| Spelling      | Australian English when applicable |
+| Heading Style | Markdown hierarchy                 |
+| Tables        | Header required                    |
+| Lists         | Use based on purpose               |
+| Code Blocks   | Language identifier required       |
+| Tone          | Professional and technical         |
+| Structure     | Kara Markdown Standard             |
 
 # Final Statement
 
@@ -402,11 +369,10 @@ The Kara Markdown Writing and Formatting Conventions Standard ensures all docume
 
 Every current and future Kara company must follow these writing and formatting rules.
 
-
 ---
 
 # Document History
 
-| Version | Date | Author | Description |
-|---|---|---|---|
-| 1.0.0 | 2026-07-25 | Erfan Abouei | Initial Markdown writing and formatting conventions standard |
+| Version | Date       | Author       | Description                                                  |
+| ------- | ---------- | ------------ | ------------------------------------------------------------ |
+| 1.0.0   | 2026-07-25 | Erfan Abouei | Initial Markdown writing and formatting conventions standard |

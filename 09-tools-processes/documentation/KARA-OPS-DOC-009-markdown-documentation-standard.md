@@ -16,6 +16,7 @@ language:
 
 <div align="center">
   <img src="../../04-brand/assets/logo/kara-symbol.svg" alt="Kara Logo" width="150" />
+
 </div>
 
 # Markdown Documentation Standard

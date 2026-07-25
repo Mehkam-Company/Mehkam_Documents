@@ -15,6 +15,7 @@ language:
 
 <div align="center">
   <img src="../../04-brand/assets/logo/kara-symbol.svg" alt="Kara Logo" width="150" />
+
 </div>
 
 # Documentation Versioning Standard
@@ -98,8 +99,8 @@ Every newly created document must start with:
 Example:
 
 ---
-version: 1.0.0
----
+
+## version: 1.0.0
 
 The first version represents the initial approved release.
 
@@ -145,16 +146,16 @@ Format:
 
 # Document History
 
-| Version | Date | Author | Description |
-|---|---|---|---|
-| 1.0.0 | YYYY-MM-DD | Name | Initial version |
+| Version | Date       | Author | Description     |
+| ------- | ---------- | ------ | --------------- |
+| 1.0.0   | YYYY-MM-DD | Name   | Initial version |
 
 Example:
 
-| Version | Date | Author | Description |
-|---|---|---|---|
-| 1.0.0 | 2026-07-25 | Erfan Abouei | Initial version |
-| 1.1.0 | 2026-08-01 | Erfan Abouei | Added new documentation rules |
+| Version | Date       | Author       | Description                   |
+| ------- | ---------- | ------------ | ----------------------------- |
+| 1.0.0   | 2026-07-25 | Erfan Abouei | Initial version               |
+| 1.1.0   | 2026-08-01 | Erfan Abouei | Added new documentation rules |
 
 # 8. Version Ownership
 
@@ -233,6 +234,6 @@ All Kara Holding documents and subsidiary company documents must follow this ver
 
 # Document History
 
-| Version | Date | Author | Description |
-|---|---|---|---|
-| 1.0.0 | 2026-07-25 | Erfan Abouei | Initial documentation versioning standard |
+| Version | Date       | Author       | Description                               |
+| ------- | ---------- | ------------ | ----------------------------------------- |
+| 1.0.0   | 2026-07-25 | Erfan Abouei | Initial documentation versioning standard |

@@ -15,6 +15,7 @@ language:
 
 <div align="center">
   <img src="../../04-brand/assets/logo/kara-symbol.svg" alt="Kara Logo" width="150" />
+
 </div>
 
 # Markdown Document Structure Standard
@@ -31,7 +32,6 @@ All Kara documentation must follow this structure:
 - Chasha
 - Phrifan
 - Future subsidiary companies
-
 
 # 1. Standard Document Structure
 
@@ -58,7 +58,6 @@ Final Statement
 
 Document History
 ```
-
 
 # 2. Metadata Header
 
@@ -90,7 +89,6 @@ language:
 ---
 ```
 
-
 # 3. Logo Section
 
 ## Purpose
@@ -108,15 +106,17 @@ Recommended for:
 - Architecture documents
 - Public documentation
 
-
 Example:
 
 ```html
 <div align="center">
-  <img src="../../assets/logo/kara-logo.svg" alt="Kara Logo" width="150" />
+  <img
+    src="../../04-brand/assets/logo/kara-symbol.svg"
+    alt="Kara Logo"
+    width="150"
+  />
 </div>
 ```
-
 
 # 4. Document Title
 
@@ -134,7 +134,6 @@ Example:
 # Documentation Lifecycle Standard
 ```
 
-
 # 5. Overview Section
 
 Every document must contain an Overview section.
@@ -144,7 +143,6 @@ Purpose:
 - Explain document objective.
 - Describe document scope.
 - Provide context for readers.
-
 
 # 6. Main Content Sections
 
@@ -161,7 +159,6 @@ Architecture Documents:
 - Architecture
 - Consequences
 
-
 Product Documents:
 
 - Problem
@@ -169,13 +166,11 @@ Product Documents:
 - User Stories
 - Acceptance Criteria
 
-
 Standard Documents:
 
 - Rules
 - Guidelines
 - Processes
-
 
 # 7. Rules and Guidelines Section
 
@@ -192,7 +187,6 @@ Recommended for:
 - SOP documents
 - Engineering guidelines
 
-
 # 8. Examples Section
 
 ## Purpose
@@ -205,7 +199,6 @@ Examples can include:
 - File structures
 - Templates
 - Usage scenarios
-
 
 # 9. References Section
 
@@ -221,7 +214,6 @@ Include when:
 - External standards are used.
 - Additional resources are required.
 
-
 # 10. Final Statement
 
 Every official Kara documentation should contain a Final Statement.
@@ -232,17 +224,15 @@ Purpose:
 - Reinforce the document purpose.
 - Provide a clear conclusion.
 
-
 # 11. Document History
 
 Every document must end with Document History.
 
 Required format:
 
-| Version | Date | Author | Description |
-|---|---|---|---|
-| 1.0.0 | YYYY-MM-DD | Name | Initial version |
-
+| Version | Date       | Author | Description     |
+| ------- | ---------- | ------ | --------------- |
+| 1.0.0   | YYYY-MM-DD | Name   | Initial version |
 
 # 12. Heading Hierarchy
 
@@ -256,13 +246,11 @@ Kara documentation uses the following heading hierarchy:
 ### Detail Section
 ```
 
-
 Rules:
 
 - Do not skip heading levels.
 - Keep hierarchy logical.
 - Avoid excessive nesting.
-
 
 # 13. Structure Rules
 
@@ -270,21 +258,17 @@ Rules:
 
 Every Markdown document must follow this standard structure.
 
-
 ## Rule 2
 
 Document content may change based on document type, but the structure must remain consistent.
-
 
 ## Rule 3
 
 Custom document structures require approval from Kara Documentation Team.
 
-
 ## Rule 4
 
 Documentation consistency has priority over individual writing preferences.
-
 
 # Final Statement
 
@@ -292,11 +276,10 @@ The Kara Markdown Document Structure Standard ensures every document across Kara
 
 This standard applies to all current and future Kara companies.
 
-
 ---
 
 # Document History
 
-| Version | Date | Author | Description |
-|---|---|---|---|
-| 1.0.0 | 2026-07-25 | Erfan Abouei | Initial Markdown document structure standard |
+| Version | Date       | Author       | Description                                  |
+| ------- | ---------- | ------------ | -------------------------------------------- |
+| 1.0.0   | 2026-07-25 | Erfan Abouei | Initial Markdown document structure standard |

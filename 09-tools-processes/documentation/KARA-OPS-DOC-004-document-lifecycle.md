@@ -15,6 +15,7 @@ language:
 
 <div align="center">
   <img src="../../04-brand/assets/logo/kara-symbol.svg" alt="Kara Logo" width="150" />
+
 </div>
 
 # Documentation Lifecycle Standard
@@ -28,7 +29,7 @@ The purpose of this standard is to ensure every document follows a controlled pr
 A defined lifecycle provides:
 
 - Clear document ownership
-- Quality control 
+- Quality control
 - Change visibility
 - Long-term documentation reliability
 
@@ -37,20 +38,20 @@ A defined lifecycle provides:
 Every document must follow this lifecycle:
 
 Draft
-  |
-  ↓
+|
+↓
 Review
-  |
-  ↓
+|
+↓
 Approved
-  |
-  ↓
+|
+↓
 Active
-  |
-  ↓
+|
+↓
 Deprecated
-  |
-  ↓
+|
+↓
 Archived
 
 # 2. Draft Status
@@ -75,12 +76,11 @@ Draft documents must include:
 - Initial structure
 - Author information
 
-
 Example:
 
 ---
-status: Draft
----
+
+## status: Draft
 
 # 3. Review Status
 
@@ -111,12 +111,11 @@ Owner:
 
 - Confirms business relevance.
 
-
 Example:
 
 ---
-status: Review
----
+
+## status: Review
 
 # 4. Approved Status
 
@@ -132,12 +131,11 @@ Approved documents:
 - Are ready for official activation.
 - Cannot be changed without version update.
 
-
 Example:
 
 ---
-status: Approved
----
+
+## status: Approved
 
 # 5. Active Status
 
@@ -159,12 +157,11 @@ Active documents:
 
 Owner is responsible for keeping active documents accurate.
 
-
 Example:
 
 ---
-status: Active
----
+
+## status: Active
 
 # 6. Deprecated Status
 
@@ -188,12 +185,11 @@ Deprecated documents:
 - Must not be deleted.
 - Must point to the replacement document when available.
 
-
 Example:
 
 ---
-status: Deprecated
----
+
+## status: Deprecated
 
 # 7. Archived Status
 
@@ -213,12 +209,11 @@ Archived documents:
 
 Archived documents must be stored separately.
 
-
 Example:
 
 ---
-status: Archived
----
+
+## status: Archived
 
 # 8. Lifecycle Transition Rules
 
@@ -230,14 +225,12 @@ Requirements:
 - Metadata completed.
 - Author submits for review.
 
-
 ## Review → Approved
 
 Requirements:
 
 - Reviewer approval.
 - Required corrections completed.
-
 
 ## Approved → Active
 
@@ -246,7 +239,6 @@ Requirements:
 - Final approval completed.
 - Document published.
 
-
 ## Active → Deprecated
 
 Requirements:
@@ -254,14 +246,12 @@ Requirements:
 - Replacement document exists or
 - Document is no longer valid.
 
-
 ## Deprecated → Archived
 
 Requirements:
 
 - Historical value confirmed.
 - Document is moved to archive.
-
 
 # 9. Document Ownership
 
@@ -290,7 +280,6 @@ Responsible for:
 - Quality review.
 - Compliance validation.
 
-
 # 10. Document Review Cycle
 
 Active documents should be reviewed periodically.
@@ -302,13 +291,11 @@ Review triggers:
 - Architecture change.
 - Security requirement update.
 
-
 # 11. Lifecycle Rules
 
 ## Rule 1
 
 No document can become Active without review.
-
 
 ## Rule 2
 
@@ -316,16 +303,13 @@ Documents must never be deleted.
 
 They must be Deprecated or Archived.
 
-
 ## Rule 3
 
 Every status change must be recorded in Document History.
 
-
 ## Rule 4
 
 Document ID must remain unchanged during the entire lifecycle.
-
 
 # Final Statement
 
@@ -333,11 +317,10 @@ The documentation lifecycle ensures that Kara Holding maintains a reliable, scal
 
 Every document must follow the defined lifecycle process from creation to archive.
 
-
 ---
 
 # Document History
 
-| Version | Date | Author | Description |
-|---|---|---|---|
-| 1.0.0 | 2026-07-25 | Erfan Abouei | Initial documentation lifecycle standard |
+| Version | Date       | Author       | Description                              |
+| ------- | ---------- | ------------ | ---------------------------------------- |
+| 1.0.0   | 2026-07-25 | Erfan Abouei | Initial documentation lifecycle standard |
