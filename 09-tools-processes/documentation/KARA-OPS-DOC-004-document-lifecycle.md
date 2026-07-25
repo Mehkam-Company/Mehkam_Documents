@@ -28,7 +28,7 @@ The purpose of this standard is to ensure every document follows a controlled pr
 A defined lifecycle provides:
 
 - Clear document ownership
-- Quality control
+- Quality control 
 - Change visibility
 - Long-term documentation reliability
 
