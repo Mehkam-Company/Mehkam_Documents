@@ -14,7 +14,7 @@ language:
 ---
 
 <div align="center">
-  <img src="../../assets/logo/kara-logo.svg" alt="Kara Logo" width="150" />
+  <img src="../../04-brand/assets/logo/kara-symbol.svg" alt="Kara Logo" width="150" />
 </div>
 
 # Document Types Standard
