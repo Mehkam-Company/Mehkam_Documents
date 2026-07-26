@@ -29,15 +29,15 @@ This document serves as the primary reference for understanding Kara Holding acr
 
 # 1. Company Identity
 
-| Property | Value |
-|----------|-------|
-| Company Name | Kara Holding |
-| Company Type | Technology Holding Company |
-| Founded | 2026 |
-| Founder | Erfan Abouei |
-| Ownership | Private |
-| Industry | Artificial Intelligence, Software Engineering, Digital Products |
-| Headquarters | TBD |
+| Property     | Value                                                           |
+| ------------ | --------------------------------------------------------------- |
+| Company Name | Kara Holding                                                    |
+| Company Type | Technology Holding Company                                      |
+| Founded      | 2026                                                            |
+| Founder      | Erfan Abouei                                                    |
+| Ownership    | Private                                                         |
+| Industry     | Artificial Intelligence, Software Engineering, Digital Products |
+| Headquarters | TBD                                                             |
 
 # 2. Company Overview
 
@@ -112,6 +112,6 @@ All future business, engineering, operational, and corporate documentation shall
 
 # Document History
 
-| Version | Date | Author | Description |
-| ------- | ---------- | ------------ | ------------------------------------------------ |
-| 1.0.0 | 2026-07-26 | Erfan Abouei | Initial Kara Holding company profile |
+| Version | Date       | Author       | Description                          |
+| ------- | ---------- | ------------ | ------------------------------------ |
+| 1.0.0   | 2026-07-26 | Erfan Abouei | Initial Kara Holding company profile |
