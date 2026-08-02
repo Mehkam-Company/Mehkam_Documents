@@ -45,16 +45,16 @@ The purpose of Kara Core Values is to:
 
 Kara Holding is built upon the following core values:
 
-| Value | Purpose |
-| ------ | ------- |
-| Ownership | Take full responsibility for outcomes and commitments. |
-| Long-term Thinking | Prioritize sustainable growth over short-term gains. |
-| Excellence | Pursue high standards in every decision and execution. |
-| Integrity | Act with honesty, transparency, and accountability. |
-| Systems Thinking | Solve problems by understanding entire systems rather than isolated events. |
-| Continuous Improvement | Continuously improve people, processes, and products. |
-| Capital Responsibility | Manage financial, human, and operational resources responsibly. |
-| Builder Mindset | Focus on creating, growing, and strengthening Kara's own companies. |
+| Value                  | Purpose                                                                     |
+| ---------------------- | --------------------------------------------------------------------------- |
+| Ownership              | Take full responsibility for outcomes and commitments.                      |
+| Long-term Thinking     | Prioritize sustainable growth over short-term gains.                        |
+| Excellence             | Pursue high standards in every decision and execution.                      |
+| Integrity              | Act with honesty, transparency, and accountability.                         |
+| Systems Thinking       | Solve problems by understanding entire systems rather than isolated events. |
+| Continuous Improvement | Continuously improve people, processes, and products.                       |
+| Capital Responsibility | Manage financial, human, and operational resources responsibly.             |
+| Builder Mindset        | Focus on creating, growing, and strengthening Kara's own companies.         |
 
 ---
 
@@ -78,6 +78,6 @@ All future policies, leadership practices, engineering standards, hiring decisio
 
 # Document History
 
-| Version | Date | Author | Description |
-| ------- | ---------- | ------------ | -------------------------------- |
-| 1.0.0 | 2026-08-02 | Erfan Abouei | Initial Kara core values document |
+| Version | Date       | Author       | Description                       |
+| ------- | ---------- | ------------ | --------------------------------- |
+| 1.0.0   | 2026-08-02 | Erfan Abouei | Initial Kara core values document |
