@@ -1,4 +1,4 @@
-# Kara Documentation System
+# Mehkam Documentation System
 
 ## Rules
 
@@ -7,5 +7,4 @@
 - Reviewed Documentation
 - Archived History
 
-All companies under Kara Holding must follow this structure.
-
+All companies under Mehkam Holding must follow this structure.
