@@ -3,27 +3,31 @@ id: Mehkam-STR-DOC-012
 title: Decision-Making Framework
 category: Strategy
 type: Framework
-company: Mehkam Holding
 version: 1.0.0
 status: Active
 owner: Mehkam Holding
 author: Erfan Abouei
-reviewer: Mehkam Executive Team
+reviewer: Mehkam Documentation Team
 created_at: 2026-08-03
 updated_at: 2026-08-03
 language:
   - English
 tags:
   - decision-making
-  - governance
   - strategy
+  - governance
   - authority
   - accountability
 related_documents:
   - Mehkam-GOV-DOC-001
+  - Mehkam-GOV-DOC-002
   - Mehkam-STR-DOC-013
   - Mehkam-STR-DOC-014
 ---
+
+<div align="center">
+  <img src="../../04-brand/assets/logo/mehkam-symbol.svg" alt="Mehkam Logo" width="150" />
+</div>
 
 # Decision-Making Framework
 
@@ -31,31 +35,31 @@ related_documents:
 
 This document defines the official decision-making framework of Mehkam Holding.
 
-The purpose of this framework is to establish how decisions are created, evaluated, owned, approved, documented, and reviewed across Mehkam Holding and its business units.
+The purpose of this framework is to establish how decisions are created, evaluated, approved, documented, and reviewed across Mehkam Holding and its Business Units.
 
-Mehkam operates through a decentralized decision-making model where business units maintain operational independence while remaining strategically aligned with Mehkam's long-term vision.
+Mehkam follows a decentralized decision-making model where Business Units maintain operational independence while Mehkam protects strategic alignment, ownership, and long-term value.
 
 # 1. Decision-Making Philosophy
 
-Mehkam believes that decisions should be made by the teams closest to the problem.
+Mehkam believes decisions should be made by the teams closest to the problem.
 
-Business units are responsible for understanding their markets, customers, products, and operations.
+Business Units own their execution, operations, and business decisions.
 
-Mehkam provides strategic governance, ownership protection, and long-term alignment.
+Mehkam provides governance, strategic review, and approval for decisions that affect the long-term direction of the ecosystem.
 
-The core principle:
+Core principle:
 
-> Business Units own decisions and execution. Mehkam protects strategic direction and long-term value.
+> Business Units own execution. Mehkam protects strategic direction and long-term value.
 
 # 2. Decision Ownership Model
 
-Every important decision must have:
+Every important decision must define:
 
 - Decision Owner.
 - Decision Context.
 - Decision Rationale.
 - Expected Outcome.
-- Required Approval Level.
+- Approval Requirements.
 - Documentation Record.
 
 ## Business Unit Responsibilities
@@ -64,9 +68,9 @@ Business Units are responsible for:
 
 - Identifying opportunities and problems.
 - Evaluating available options.
-- Creating recommendations.
+- Preparing recommendations.
 - Executing approved decisions.
-- Documenting important decisions.
+- Documenting decisions.
 
 ## Mehkam Responsibilities
 
@@ -76,27 +80,27 @@ Mehkam is responsible for:
 - Governance oversight.
 - Ownership protection.
 - Risk evaluation.
-- Approval of decisions requiring holding-level involvement.
+- Approval of governance-level decisions.
 
-# 3. Decision Categories
+# 3. Operational Decision Authority
 
-## Operational Decisions
-
-Operational decisions are controlled independently by Business Units.
+Operational decisions are managed independently by Business Units.
 
 Examples:
 
+- Engineering decisions.
 - Technology selection.
-- Engineering approach.
+- Product implementation.
 - Internal workflows.
-- Daily execution decisions.
-- Product implementation details.
+- Daily execution.
 
 These decisions do not require Mehkam approval.
 
-## Strategic Decisions
+Business Units are accountable for execution quality and outcomes.
 
-Strategic decisions are initiated and owned by Business Units but require Mehkam review and approval.
+# 4. Strategic Decision Authority
+
+Strategic decisions require Mehkam review and approval.
 
 Examples:
 
@@ -105,7 +109,27 @@ Examples:
 - Strategic product direction changes.
 - Long-term business initiatives.
 
-## Financial Decisions
+Decision Flow:
+
+\`\`\`text
+Business Unit
+
+↓
+
+Strategic Proposal
+
+↓
+
+Mehkam Review & Approval
+
+↓
+
+Business Execution
+\`\`\`
+
+Business Units remain responsible for implementation.
+
+# 5. Financial Decision Authority
 
 Major financial decisions require Mehkam approval.
 
@@ -113,25 +137,73 @@ Examples:
 
 - Significant investments.
 - Budget expansion.
+- Major resource allocation.
 - Large financial commitments.
-- Resource allocation changes.
 
-## Organizational Decisions
+Decision Flow:
+
+\`\`\`text
+Business Unit
+
+↓
+
+Financial Proposal
+
+↓
+
+Mehkam Financial Review
+
+↓
+
+Approval
+
+↓
+
+Execution
+\`\`\`
+
+Routine financial activities within approved boundaries remain under Business Unit authority.
+
+# 6. Organizational Decision Authority
 
 Major organizational decisions require Mehkam approval.
 
 Examples:
 
 - Leadership changes.
-- Major team restructuring.
-- Creation of new departments.
+- Team restructuring.
+- Creating new departments.
 - Significant organizational changes.
 
-# 4. Ownership and Legal Decisions
+Decision Flow:
+
+\`\`\`text
+Business Unit
+
+↓
+
+Organizational Proposal
+
+↓
+
+Mehkam Review
+
+↓
+
+Approval
+
+↓
+
+Implementation
+\`\`\`
+
+# 7. Ownership and Legal Decision Authority
 
 Ownership and legal decisions follow a hybrid authority model.
 
-Mehkam approval is required for:
+## Mehkam Approval Required
+
+Examples:
 
 - Equity changes.
 - Ownership structure changes.
@@ -139,78 +211,163 @@ Mehkam approval is required for:
 - Company sale.
 - Strategic legal commitments.
 
-Business Units manage:
+## Business Unit Authority
+
+Within approved boundaries:
 
 - Standard operational contracts.
 - Routine legal activities.
-- Execution agreements.
+- Business execution agreements.
 
-# 5. Decision Documentation Process
+# 8. Decision Documentation Process
 
 Each Business Unit maintains its own decision documentation system.
 
-Business Units are responsible for:
+Business Units must document:
 
-- Recording important decisions.
-- Maintaining decision history.
-- Documenting rationale.
-- Assigning decision owners.
-- Tracking outcomes.
+- Important decisions.
+- Decision rationale.
+- Responsible owner.
+- Expected impact.
+- Final outcome.
 
-Mehkam reviews important decisions through governance processes and reporting.
+Decision Flow:
 
-# 6. Decision Escalation Process
+\`\`\`text
+Decision Evaluation
 
-Business Units may escalate complex decisions to Mehkam when strategic guidance or alignment is required.
+↓
 
-The Business Unit remains responsible for:
+Decision Documentation
+
+↓
+
+Internal Approval
+
+↓
+
+Execution
+
+↓
+
+Reporting to Mehkam
+\`\`\`
+
+# 9. Decision Escalation Process
+
+Business Units may propose complex decisions to Mehkam when strategic guidance or alignment is required.
+
+Escalation does not transfer ownership of the decision.
+
+Business Units remain responsible for:
 
 - Problem definition.
 - Analysis.
 - Recommendation.
 - Execution.
 
-# 7. Decision Review Process
+Flow:
 
-Business Units report important decisions to Mehkam during periodic review meetings.
+\`\`\`text
+Business Unit
 
-The purpose:
+↓
 
-- Maintain strategic alignment.
+Problem Identification
+
+↓
+
+Decision Analysis
+
+↓
+
+Proposal to Mehkam
+
+↓
+
+Guidance / Approval
+
+↓
+
+Execution
+\`\`\`
+
+# 10. Decision Review Process
+
+Business Units report important decisions during periodic review meetings with Mehkam.
+
+Review objectives:
+
+- Maintain transparency.
+- Ensure strategic alignment.
 - Identify risks.
 - Provide guidance.
-- Ensure transparency.
 
-# 8. Accountability Principles
+Flow:
 
-## Clear Ownership
+\`\`\`text
+Business Unit
 
-Every decision must have a responsible owner.
+↓
 
-## Decentralized Execution
+Decision Report
 
-Teams closest to the problem should control execution decisions.
+↓
 
-## Strategic Alignment
+Review Meeting
 
-Independent decisions must support Mehkam's long-term direction.
+↓
 
-## Documentation First
+Mehkam Feedback
 
-Important decisions must be documented.
+↓
 
-## Governance Without Bottlenecks
+Continuous Improvement
+\`\`\`
 
-Mehkam provides oversight without slowing execution.
+# 11. Decision-Making Principles
+
+## 11.1 Long-Term Value First
+
+Decisions should maximize long-term value.
+
+## 11.2 Evidence Before Assumptions
+
+Important decisions should be supported by analysis and evidence.
+
+## 11.3 Independent Execution
+
+Teams closest to the problem should control execution.
+
+## 11.4 Strategic Alignment
+
+All decisions must support Mehkam's vision and objectives.
+
+## 11.5 Documentation First
+
+Important decisions must remain traceable.
+
+## 11.6 Governance Without Bottlenecks
+
+Governance should protect value without reducing execution speed.
+
+# Related Documents
+
+- Mehkam-GOV-DOC-001
+- Mehkam-GOV-DOC-002
+- Mehkam-STR-DOC-013
+- Mehkam-STR-DOC-014
 
 # Final Statement
 
-The Mehkam Decision-Making Framework creates a balance between independent business execution and holding-level strategic governance.
+The Mehkam Decision-Making Framework establishes a balance between Business Unit independence and holding-level governance.
 
-Business Units maintain autonomy, speed, and ownership while Mehkam protects the ecosystem's long-term value, direction, and sustainability.
+Business Units maintain ownership of execution while Mehkam ensures strategic alignment, responsible decision-making, and long-term ecosystem value.
+
+---
 
 # Document History
 
-| Version | Date       | Author       | Description                       |
-| ------- | ---------- | ------------ | --------------------------------- |
-| 1.0.0   | 2026-08-03 | Erfan Abouei | Initial decision-making framework |
+| Version | Date       | Author       | Description                                |
+| ------- | ---------- | ------------ | ------------------------------------------ |
+| 1.0.0   | 2026-08-03 | Erfan Abouei | Initial decision-making framework document |

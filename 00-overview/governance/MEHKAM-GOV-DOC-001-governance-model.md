@@ -3,12 +3,11 @@ id: Mehkam-GOV-DOC-001
 title: Governance Model
 category: Governance
 type: Framework
-company: Mehkam Holding
 version: 1.0.0
 status: Active
 owner: Mehkam Holding
 author: Erfan Abouei
-reviewer: Mehkam Executive Team
+reviewer: Mehkam Documentation Team
 created_at: 2026-08-03
 updated_at: 2026-08-03
 language:
@@ -17,90 +16,263 @@ tags:
   - governance
   - holding
   - ownership
-  - decision-making
-  - operating-model
+  - authority
+  - business-independence
+related_documents:
+  - Mehkam-GOV-DOC-002
+  - Mehkam-STR-DOC-012
+  - Mehkam-STR-DOC-013
 ---
+
+<div align="center">
+  <img src="../../04-brand/assets/logo/mehkam-symbol.svg" alt="Mehkam Logo" width="150" />
+</div>
 
 # Governance Model
 
 ## Overview
 
-This document defines the official governance framework of Mehkam Holding.
+This document defines the official governance model of Mehkam Holding.
 
-The purpose of this framework is to establish how Mehkam operates as a parent company, how ownership is structured, how authority is distributed, and how independent business units operate while remaining strategically aligned with Mehkam's long-term vision.
+The purpose of this framework is to establish how Mehkam operates as a parent company, how ownership responsibilities are managed, and how strategic authority is structured across Mehkam and its business units.
+
+Mehkam operates as a holding company that creates, owns, and develops independent businesses while maintaining strategic governance and long-term value protection.
 
 # 1. Governance Philosophy
 
-Mehkam Holding operates as a venture builder holding company.
+Mehkam follows a decentralized governance model.
 
-Mehkam creates, owns, develops, and scales businesses while separating ownership responsibilities from operational execution.
+Business Units operate independently with their own teams, execution capabilities, and operational responsibilities.
+
+Mehkam focuses on:
+
+- Ownership protection.
+- Strategic alignment.
+- Long-term value creation.
+- Governance oversight.
 
 The core principle:
 
-> Mehkam owns the ecosystem, defines strategic direction, protects long-term value, and enables independent teams to execute.
+> Business Units operate independently. Mehkam protects ownership, direction, and long-term value.
 
 # 2. Holding Structure
 
-Mehkam Holding follows a parent company structure.
+Mehkam Holding is the parent organization that owns and governs its business ecosystem.
+
+Structure:
+
+\`\`\`text
+Mehkam Holding
+
+↓
+
+Ownership & Governance
+
+↓
+
+Independent Business Units
+
+↓
+
+Business Teams & Operations
+\`\`\`
+
+Each Business Unit maintains its own:
+
+- Team structure.
+- Product development.
+- Market execution.
+- Operational decisions.
 
 # 3. Ownership Model
 
-Mehkam Holding maintains 100% ownership of all companies and ventures inside the ecosystem.
+All companies created by Mehkam are fully owned by Mehkam Holding.
 
-Mehkam responsibilities:
+Ownership principles:
 
-- Equity ownership.
-- Long-term business value protection.
-- Portfolio direction.
+- Mehkam owns 100% of created businesses.
+- Business teams operate the companies but do not control ownership.
+- Business assets remain part of Mehkam ecosystem.
+
+Ownership Model:
+
+\`\`\`text
+Business Creation
+
+↓
+
+Mehkam Investment
+
+↓
+
+Company Formation
+
+↓
+
+100% Ownership by Mehkam
+\`\`\`
+
+# 4. Strategic Authority Model
+
+Strategic decisions are owned by Business Units but require Mehkam approval.
+
+Business Units are responsible for:
+
+- Identifying opportunities.
+- Preparing strategic proposals.
+- Executing approved strategies.
+
+Mehkam is responsible for:
+
+- Strategic review.
+- Governance approval.
+- Long-term alignment.
+
+Decision Flow:
+
+\`\`\`text
+Business Unit
+
+↓
+
+Strategic Proposal
+
+↓
+
+Mehkam Review & Approval
+
+↓
+
+Execution
+\`\`\`
+
+# 5. Operational Independence
+
+Business Units are independent in daily operations.
+
+Operational decisions do not require Mehkam approval.
+
+Examples:
+
+- Technology choices.
+- Engineering decisions.
+- Internal workflows.
+- Daily execution.
+
+Business Units are responsible for their own execution and performance.
+
+# 6. Financial Governance
+
+Major financial decisions require Mehkam approval.
+
+Examples:
+
+- Large investments.
+- Budget expansion.
+- Significant resource allocation.
+- Major financial commitments.
+
+Process:
+
+\`\`\`text
+Business Unit
+
+↓
+
+Financial Proposal
+
+↓
+
+Mehkam Approval
+
+↓
+
+Execution
+\`\`\`
+
+Routine operations within approved boundaries remain under Business Unit authority.
+
+# 7. Organizational Governance
+
+Major organizational decisions require Mehkam approval.
+
+Examples:
+
+- Leadership changes.
+- Major restructuring.
+- Creation of new departments.
+- Significant organizational changes.
+
+Process:
+
+\`\`\`text
+Business Unit
+
+↓
+
+Organizational Proposal
+
+↓
+
+Mehkam Review
+
+↓
+
+Approval & Implementation
+\`\`\`
+
+# 8. Reporting and Oversight
+
+Business Units maintain independence but provide periodic reports to Mehkam.
+
+Reporting includes:
+
+- Business performance.
 - Strategic decisions.
-- Ownership management.
+- Major risks.
+- Growth progress.
 
-# 4. Operating Relationship Model
+Mehkam uses reporting to maintain governance visibility without interfering with daily operations.
 
-Mehkam provides:
+# 9. Governance Principles
 
-- Strategic direction.
-- Governance standards.
-- Capital allocation.
-- Executive oversight.
-- Risk management.
+## 9.1 Ownership Protection
 
-Business Units provide:
+Mehkam protects ownership and long-term business value.
 
-- Product execution.
-- Market execution.
-- Customer operations.
-- Team management.
-- Revenue growth.
+## 9.2 Independent Execution
 
-# 5. Decision Authority Framework
+Business Units control execution and daily operations.
 
-Mehkam approval is required for:
+## 9.3 Strategic Alignment
 
-- Creating new ventures.
-- Entering new markets.
-- Major business model changes.
-- Major investments.
-- Executive leadership changes.
-- Equity changes.
-- Strategic partnerships.
+All businesses must remain aligned with Mehkam's long-term vision.
 
-Business Units independently control:
+## 9.4 Governance Without Bottlenecks
 
-- Daily operations.
-- Product execution.
-- Engineering execution.
-- Customer management.
-- Marketing execution.
+Mehkam provides oversight without reducing business speed.
+
+## 9.5 Long-Term Value Creation
+
+Decisions should increase the overall value of Mehkam ecosystem.
+
+# Related Documents
+
+- Mehkam-GOV-DOC-002
+- Mehkam-STR-DOC-012
+- Mehkam-STR-DOC-013
+- Mehkam-STR-DOC-014
 
 # Final Statement
 
-The Mehkam Holding Governance Model establishes the foundation for building and scaling independent businesses under a unified ownership structure.
+The Mehkam Governance Model creates a balance between ownership control and business independence.
 
-Mehkam provides ownership, strategy, and governance while empowering business units to execute independently.
+Through decentralized execution and strategic governance, Mehkam enables its companies to grow independently while protecting the long-term value of the entire ecosystem.
+
+---
 
 # Document History
 
-| Version | Date       | Author       | Description                  |
-| ------- | ---------- | ------------ | ---------------------------- |
-| 1.0.0   | 2026-08-03 | Erfan Abouei | Initial governance framework |
+| Version | Date       | Author       | Description                       |
+| ------- | ---------- | ------------ | --------------------------------- |
+| 1.0.0   | 2026-08-03 | Erfan Abouei | Initial governance model document |
