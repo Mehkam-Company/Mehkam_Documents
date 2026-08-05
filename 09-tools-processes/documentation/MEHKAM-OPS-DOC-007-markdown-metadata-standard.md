@@ -1,5 +1,5 @@
 ---
-id: Mehkam-OPS-DOC-007
+id: MEHKAM-OPS-DOC-007
 title: Markdown Metadata Header Standard
 category: Documentation
 type: Standard
@@ -98,7 +98,7 @@ Rules:
 Example:
 
 ```yaml
-id: Mehkam-OPS-DOC-007
+id: MEHKAM-OPS-DOC-007
 ```
 
 ## Title
@@ -465,7 +465,7 @@ Metadata changes must follow document versioning rules.
 
 ```yaml
 ---
-id: Mehkam-ENG-ADR-001
+id: MEHKAM-ENG-ADR-001
 title: Database Architecture Decision
 category: Engineering
 type: ADR

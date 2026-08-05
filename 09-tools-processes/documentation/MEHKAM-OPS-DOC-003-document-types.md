@@ -1,5 +1,5 @@
 ---
-id: Mehkam-OPS-DOC-003
+id: MEHKAM-OPS-DOC-003
 title: Document Types Standard
 category: Documentation
 version: 1.0.0

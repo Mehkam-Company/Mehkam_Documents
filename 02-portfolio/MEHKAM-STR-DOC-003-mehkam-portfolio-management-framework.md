@@ -4,9 +4,9 @@ title: Mehkam Portfolio Management Framework
 category: Strategy
 version: 1.0.0
 status: Draft
-owner: MEHKAM Holding
+owner: Mehkam Holding
 author: Erfan Abouei
-reviewer: MEHKAM Strategy Team
+reviewer: Mehkam Strategy Team
 created_at: 2026-08-05
 updated_at: 2026-08-05
 language:
@@ -22,7 +22,7 @@ language:
 
 ## Overview
 
-This document defines the official portfolio management framework of MEHKAM Holding.
+This document defines the official portfolio management framework of Mehkam Holding.
 
 The purpose of this framework is to establish how MEHKAM manages, evaluates, and develops its portfolio of businesses.
 
@@ -38,7 +38,7 @@ This framework ensures:
 
 # 1. Portfolio Structure
 
-MEHKAM Portfolio includes all businesses created or acquired by MEHKAM Holding.
+MEHKAM Portfolio includes all businesses created or acquired by Mehkam Holding.
 
 The portfolio represents the complete ecosystem of companies owned by MEHKAM.
 
@@ -264,11 +264,11 @@ Subsidiaries maintain operational independence while MEHKAM maintains ownership 
 
 Owner:
 
-MEHKAM Holding
+Mehkam Holding
 
 Responsible team/person:
 
-MEHKAM Strategy Team
+Mehkam Strategy Team
 
 # Review Process
 

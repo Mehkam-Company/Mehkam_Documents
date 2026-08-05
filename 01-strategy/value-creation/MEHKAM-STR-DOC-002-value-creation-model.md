@@ -1,5 +1,5 @@
 ---
-id: Mehkam-STR-DOC-002
+id: MEHKAM-STR-DOC-002
 title: Value Creation Model
 category: Strategy
 version: 1.0.0

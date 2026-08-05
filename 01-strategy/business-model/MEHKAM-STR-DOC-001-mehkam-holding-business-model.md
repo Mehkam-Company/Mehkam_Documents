@@ -4,9 +4,9 @@ title: Mehkam Holding Business Model
 category: Strategy
 version: 1.0.0
 status: Draft
-owner: MEHKAM Holding
+owner: Mehkam Holding
 author: Erfan Abouei
-reviewer: MEHKAM Strategy Team
+reviewer: Mehkam Strategy Team
 created_at: 2026-08-05
 updated_at: 2026-08-05
 language:
@@ -21,7 +21,7 @@ language:
 
 ## Overview
 
-This document defines the official business model of MEHKAM Holding.
+This document defines the official business model of Mehkam Holding.
 
 The purpose of this document is to explain how MEHKAM creates, owns, supervises, and grows its businesses as a parent holding company.
 
@@ -35,7 +35,7 @@ Purpose:
 - Explain ownership, governance, and growth principles.
 - Create a scalable foundation for future businesses.
 
-# 1. MEHKAM Holding Model
+# 1. Mehkam Holding Model
 
 MEHKAM is a parent holding company responsible for building, owning, and supervising multiple independent businesses.
 
@@ -202,11 +202,11 @@ Each subsidiary contributes to the overall MEHKAM ecosystem while maintaining it
 
 Owner:
 
-MEHKAM Holding
+Mehkam Holding
 
 Responsible team/person:
 
-MEHKAM Strategy Team
+Mehkam Strategy Team
 
 # Review Process
 

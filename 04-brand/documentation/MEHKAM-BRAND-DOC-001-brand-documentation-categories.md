@@ -1,5 +1,5 @@
 ---
-id: Mehkam-BRAND-DOC-001
+id: MEHKAM-BRAND-DOC-001
 title: Brand Documentation Categories
 category: Brand
 type: Standard

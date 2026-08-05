@@ -1,5 +1,5 @@
 ---
-id: Mehkam-[DOMAIN]-[TYPE]-XXX
+id: MEHKAM-[DOMAIN]-[TYPE]-XXX
 title: Document Title
 category: Category Name
 version: 1.0.0

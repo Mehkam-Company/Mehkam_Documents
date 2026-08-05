@@ -1,5 +1,5 @@
 ---
-id: Mehkam-OPS-DOC-008
+id: MEHKAM-OPS-DOC-008
 title: Markdown Writing and Formatting Conventions Standard
 category: Documentation
 type: Standard
@@ -361,7 +361,7 @@ Every document must:
 | Lists         | Use based on purpose               |
 | Code Blocks   | Language identifier required       |
 | Tone          | Professional and technical         |
-| Structure     | Mehkam Markdown Standard             |
+| Structure     | Mehkam Markdown Standard           |
 
 # Final Statement
 

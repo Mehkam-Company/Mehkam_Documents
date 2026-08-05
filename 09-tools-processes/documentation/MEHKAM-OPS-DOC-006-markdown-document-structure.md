@@ -1,5 +1,5 @@
 ---
-id: Mehkam-OPS-DOC-006
+id: MEHKAM-OPS-DOC-006
 title: Markdown Document Structure Standard
 category: Documentation
 version: 1.0.0
@@ -74,7 +74,7 @@ Example:
 
 ```yaml
 ---
-id: Mehkam-OPS-DOC-001
+id: MEHKAM-OPS-DOC-001
 title: Example Document
 category: Documentation
 version: 1.0.0

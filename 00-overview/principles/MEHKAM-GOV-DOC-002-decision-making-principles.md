@@ -1,5 +1,5 @@
 ---
-id: Mehkam-GOV-DOC-002
+id: MEHKAM-GOV-DOC-002
 title: Decision-Making Principles
 category: Governance
 version: 1.0.0

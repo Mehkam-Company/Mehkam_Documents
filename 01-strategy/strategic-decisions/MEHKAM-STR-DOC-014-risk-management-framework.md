@@ -1,5 +1,5 @@
 ---
-id: Mehkam-STR-DOC-014
+id: MEHKAM-STR-DOC-014
 title: Risk Management Framework
 category: Strategy
 type: Framework

@@ -1,5 +1,5 @@
 ---
-id: Mehkam-GOV-DOC-001
+id: MEHKAM-GOV-DOC-001
 title: Governance Model
 category: Governance
 type: Framework

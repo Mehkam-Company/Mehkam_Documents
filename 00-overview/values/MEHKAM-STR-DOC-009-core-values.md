@@ -1,5 +1,5 @@
 ---
-id: Mehkam-STR-DOC-009
+id: MEHKAM-STR-DOC-009
 title: Mehkam Core Values
 category: Strategy
 version: 1.0.0

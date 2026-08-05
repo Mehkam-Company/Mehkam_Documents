@@ -1,5 +1,5 @@
 ---
-id: Mehkam-STR-DOC-003
+id: MEHKAM-STR-DOC-003
 title: Mission Principles
 category: Strategy
 version: 1.0.0

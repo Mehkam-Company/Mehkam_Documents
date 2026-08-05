@@ -1,5 +1,5 @@
 ---
-id: Mehkam-OPS-DOC-002
+id: MEHKAM-OPS-DOC-002
 title: Documentation Naming Convention
 category: Documentation
 version: 1.0.0
@@ -149,7 +149,7 @@ Every document must contain a unique ID inside its metadata header.
 
 Example:
 
-id: Mehkam-ENG-ADR-001
+id: MEHKAM-ENG-ADR-001
 
 Document ID rules:
 

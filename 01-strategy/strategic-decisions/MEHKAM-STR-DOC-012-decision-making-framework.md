@@ -1,5 +1,5 @@
 ---
-id: Mehkam-STR-DOC-012
+id: MEHKAM-STR-DOC-012
 title: Decision-Making Framework
 category: Strategy
 type: Framework

@@ -1,5 +1,5 @@
 ---
-id: Mehkam-OPS-DOC-012
+id: MEHKAM-OPS-DOC-012
 title: Documentation Contribution Rules
 category: Operations
 type: Standard

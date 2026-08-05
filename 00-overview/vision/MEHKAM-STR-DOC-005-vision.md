@@ -1,5 +1,5 @@
 ---
-id: Mehkam-STR-DOC-005
+id: MEHKAM-STR-DOC-005
 title: Mehkam Holding Vision
 category: Strategy
 version: 1.0.0

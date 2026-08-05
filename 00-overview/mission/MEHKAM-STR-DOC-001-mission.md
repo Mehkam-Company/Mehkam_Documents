@@ -1,5 +1,5 @@
 ---
-id: Mehkam-STR-DOC-001
+id: MEHKAM-STR-DOC-001
 title: Mehkam Holding Mission
 category: Strategy
 version: 1.0.0

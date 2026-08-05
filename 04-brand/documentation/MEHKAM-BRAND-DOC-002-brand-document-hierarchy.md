@@ -1,5 +1,5 @@
 ---
-id: Mehkam-BRAND-DOC-002
+id: MEHKAM-BRAND-DOC-002
 title: Brand Documentation Hierarchy and Numbering Standard
 category: Brand
 type: Standard

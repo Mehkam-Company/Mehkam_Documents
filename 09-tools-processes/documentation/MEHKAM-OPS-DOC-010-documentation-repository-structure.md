@@ -1,5 +1,5 @@
 ---
-id: Mehkam-OPS-DOC-010
+id: MEHKAM-OPS-DOC-010
 title: Documentation Repository Structure Standard
 category: Operations
 type: Standard

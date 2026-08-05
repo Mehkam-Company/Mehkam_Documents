@@ -1,5 +1,5 @@
 ---
-id: Mehkam-STR-DOC-007
+id: MEHKAM-STR-DOC-007
 title: Growth Direction
 category: Strategy
 version: 1.0.0

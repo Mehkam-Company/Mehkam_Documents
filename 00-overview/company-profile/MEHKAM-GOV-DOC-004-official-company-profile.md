@@ -1,5 +1,5 @@
 ---
-id: Mehkam-GOV-DOC-004
+id: MEHKAM-GOV-DOC-004
 title: Official Company Profile
 category: Governance
 version: 1.0.0

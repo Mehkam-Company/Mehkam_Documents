@@ -1,5 +1,5 @@
 ---
-id: Mehkam-OPS-DOC-013
+id: MEHKAM-OPS-DOC-013
 title: Documentation Repository Standard
 category: Operations
 type: Standard

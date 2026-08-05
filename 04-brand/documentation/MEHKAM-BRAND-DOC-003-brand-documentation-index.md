@@ -1,5 +1,5 @@
 ---
-id: Mehkam-BRAND-DOC-003
+id: MEHKAM-BRAND-DOC-003
 title: Brand Documentation Index
 category: Brand
 type: Standard

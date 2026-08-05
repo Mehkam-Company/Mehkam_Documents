@@ -1,5 +1,5 @@
 ---
-id: Mehkam-STR-DOC-013
+id: MEHKAM-STR-DOC-013
 title: Investment Thesis
 category: Strategy
 type: Framework

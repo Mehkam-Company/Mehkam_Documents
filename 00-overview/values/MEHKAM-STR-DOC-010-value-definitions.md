@@ -1,5 +1,5 @@
 ---
-id: Mehkam-STR-DOC-010
+id: MEHKAM-STR-DOC-010
 title: Mehkam Holding Value Definitions
 category: Strategy
 version: 1.0.0

@@ -5,7 +5,7 @@ category: Documentation
 type: Standard
 version: 1.0.0
 status: Active
-owner: MEHKAM Holding
+owner: Mehkam Holding
 author: Erfan Abouei
 reviewer: MEHKAM Documentation Team
 created_at: 2026-07-25
@@ -23,7 +23,7 @@ language:
 
 ## Overview
 
-This document defines the official writing, formatting, and presentation standards for all Markdown documentation created inside MEHKAM Holding and its subsidiary companies.
+This document defines the official writing, formatting, and presentation standards for all Markdown documentation created inside Mehkam Holding and its subsidiary companies.
 
 The purpose of this standard is to ensure all documentation remains:
 
@@ -35,7 +35,7 @@ The purpose of this standard is to ensure all documentation remains:
 
 This standard applies to:
 
-- MEHKAM Holding
+- Mehkam Holding
 - Chasha
 - Phrifan
 - Future subsidiary companies
@@ -361,11 +361,11 @@ Every document must:
 | Lists         | Use based on purpose               |
 | Code Blocks   | Language identifier required       |
 | Tone          | Professional and technical         |
-| Structure     | MEHKAM Markdown Standard             |
+| Structure     | MEHKAM Markdown Standard           |
 
 # Final Statement
 
-The MEHKAM Markdown Writing and Formatting Conventions Standard ensures all documentation across MEHKAM Holding remains consistent, professional, and scalable.
+The MEHKAM Markdown Writing and Formatting Conventions Standard ensures all documentation across Mehkam Holding remains consistent, professional, and scalable.
 
 Every current and future MEHKAM company must follow these writing and formatting rules.
 
@@ -376,4 +376,3 @@ Every current and future MEHKAM company must follow these writing and formatting
 | Version | Date       | Author       | Description                                                  |
 | ------- | ---------- | ------------ | ------------------------------------------------------------ |
 | 1.0.0   | 2026-07-25 | Erfan Abouei | Initial Markdown writing and formatting conventions standard |
-

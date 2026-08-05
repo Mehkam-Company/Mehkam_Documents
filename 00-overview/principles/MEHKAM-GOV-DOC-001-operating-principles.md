@@ -1,5 +1,5 @@
 ---
-id: Mehkam-GOV-DOC-001
+id: MEHKAM-GOV-DOC-001
 title: Operating Principles
 category: Governance
 version: 1.0.0

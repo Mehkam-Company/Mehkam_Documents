@@ -1,5 +1,5 @@
 ---
-id: Mehkam-STR-DOC-004
+id: MEHKAM-STR-DOC-004
 title: Official Mission
 category: Strategy
 version: 1.0.0
