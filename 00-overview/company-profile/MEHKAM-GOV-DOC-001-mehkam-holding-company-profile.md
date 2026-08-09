@@ -2,6 +2,8 @@
 id: MEHKAM-GOV-DOC-001
 title: Mehkam Holding Company Profile
 category: Governance
+type: Standard
+company: Mehkam Holding
 version: 1.0.0
 status: Active
 owner: Mehkam Holding
@@ -11,13 +13,25 @@ created_at: 2026-07-26
 updated_at: 2026-07-26
 language:
   - English
+tags:
+  - governance
+  - company
+  - profile
+  - organizational-scope
+  - holding
+related_documents:
+  - MEHKAM-STR-DOC-004
+  - MEHKAM-STR-DOC-008
+  - MEHKAM-STR-DOC-012
+---
+
+# Mehkam Holding Company Profile
+
 ---
 
 <div align="center">
   <img src="../../04-brand/assets/logo/mehkam-symbol.svg" alt="Mehkam Logo" width="150" />
 </div>
-
-# Mehkam Holding Company Profile
 
 ## Overview
 
@@ -35,6 +49,7 @@ This document serves as the primary reference for understanding Mehkam Holding a
 | Company Type | Technology Holding Company                                      |
 | Founded      | 2026                                                            |
 | Founder      | Erfan Abouei                                                    |
+| Co-Founder   | Mahdi Mollanori                                                 |
 | Ownership    | Private                                                         |
 | Industry     | Artificial Intelligence, Software Engineering, Digital Products |
 | Headquarters | TBD                                                             |
@@ -102,7 +117,7 @@ Mehkam Holding aims to build a globally recognized ecosystem of technology compa
 - OPERATING_MODEL.md
 - ORGANIZATION.md
 
-# Final Statement
+## Final Statement
 
 This document defines the official identity and organizational profile of Mehkam Holding.
 

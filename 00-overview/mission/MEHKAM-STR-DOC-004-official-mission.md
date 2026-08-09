@@ -2,6 +2,8 @@
 id: MEHKAM-STR-DOC-004
 title: Official Mission
 category: Strategy
+type: Standard
+company: Mehkam Holding
 version: 1.0.0
 status: Active
 owner: Mehkam Holding
@@ -11,13 +13,25 @@ created_at: 2026-07-26
 updated_at: 2026-07-26
 language:
   - English
+tags:
+  - mission
+  - strategy
+  - purpose
+  - vision
+  - organizational-direction
+related_documents:
+  - Mehkam-STR-DOC-001
+  - Mehkam-STR-DOC-002
+  - Mehkam-STR-DOC-003
+  - Mehkam-STR-DOC-008
+  - Mehkam-STR-DOC-011
 ---
+
+# Official Mission
 
 <div align="center">
   <img src="../../04-brand/assets/logo/mehkam-symbol.svg" alt="Mehkam Logo" width="150" />
 </div>
-
-# Official Mission
 
 ## Overview
 

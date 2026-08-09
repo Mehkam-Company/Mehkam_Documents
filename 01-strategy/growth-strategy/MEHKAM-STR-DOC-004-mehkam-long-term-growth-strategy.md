@@ -2,147 +2,220 @@
 id: MEHKAM-STR-DOC-004
 title: Mehkam Long-Term Growth Strategy
 category: Strategy
+type: Framework
+company: Mehkam Holding
 version: 1.0.0
 status: Draft
-owner: MEHKAM Holding
+owner: Mehkam Holding
 author: Erfan Abouei
 reviewer: Mehkam Strategy Team
 created_at: 2026-08-05
 updated_at: 2026-08-05
 language:
   - English
+tags:
+  - growth
+  - strategy
+  - business-expansion
+  - portfolio
+  - organizational-scaling
+  - business-development
+  - long-term-growth
+related_documents:
+  - Mehkam-GOV-DOC-001-governance-model
+  - Mehkam-GOV-DOC-004-official-principles
+  - Mehkam-OPS-DOC-001-operating-principles
+  - Mehkam-OPS-DOC-002-decision-making-principles
+  - Mehkam-OPS-DOC-003-engineering-and-business-mindset
 ---
-
-<div align="center">
-  <img src="../../04-brand/assets/logo/mehkam-symbol.svg" alt="Mehkam Logo" width="150" />
-
-</div>
 
 # Mehkam Long-Term Growth Strategy
 
+<div align="center">
+  <img src="../../04-brand/assets/logo/mehkam-symbol.svg" alt="Mehkam Logo" width="150" />
+</div>
+
 ## Overview
 
-This document defines the official long-term growth strategy of MEHKAM Holding.
+This document defines the official long-term growth strategy of Mehkam Holding.
 
-The purpose of this strategy is to define how MEHKAM builds, expands, and evolves into a scalable ecosystem of independent businesses.
+Mehkam operates as a parent holding company that creates, acquires, owns, develops, and supervises businesses.
 
-MEHKAM operates as a parent holding company that creates, acquires, owns, and supervises businesses. The primary objective of MEHKAM is long-term value creation through continuous business development and strategic expansion.
+The primary objective of Mehkam is long-term value creation through continuous business development, strategic expansion, disciplined ownership, and the development of an ecosystem of independent businesses.
 
-This strategy defines:
+This strategy establishes the framework through which Mehkam:
 
-- Growth principles.
-- Expansion approach.
-- Organizational scaling model.
-- Future strategic priorities.
+- Builds new businesses.
+- Expands its business portfolio.
+- Develops existing businesses.
+- Enters new markets.
+- Scales its organizational structure.
+- Develops shared strategic capabilities.
+- Transitions businesses toward operational independence.
+
+The strategy is designed to ensure that Mehkam can grow without creating unnecessary organizational centralization or operational dependency between the holding company and its businesses.
+
+# Purpose
+
+The purpose of the Mehkam Long-Term Growth Strategy is to establish a consistent framework for sustainable organizational and portfolio growth.
+
+This strategy exists to:
+
+- Define Mehkam's long-term growth direction.
+- Establish principles for business creation and expansion.
+- Provide a framework for portfolio development.
+- Define the relationship between Mehkam Holding and its businesses.
+- Support decentralized organizational scaling.
+- Guide long-term investment of organizational capabilities.
+- Create sustainable value across the Mehkam ecosystem.
 
 # 1. Growth Principles
 
-MEHKAM follows a flexible and opportunity-driven growth approach.
+Mehkam follows a flexible and opportunity-driven growth approach.
 
-The holding company is not limited to a single market, industry, or expansion method. MEHKAM evaluates and follows opportunities that can create long-term value for its ecosystem.
-
-The core growth principles are:
+The holding company is not limited to a single market, industry, or expansion method. Opportunities are evaluated according to their strategic relevance, long-term potential, and ability to create sustainable value.
 
 ## 1.1 Long-Term Ownership
 
-MEHKAM focuses on building and owning businesses with long-term potential.
+Mehkam focuses on building and owning businesses with long-term potential.
 
-Short-term opportunities are evaluated based on their ability to contribute to sustainable growth and strategic value.
+Short-term opportunities may be considered when they contribute meaningfully to long-term strategic objectives.
+
+Ownership is viewed as a mechanism for creating and preserving long-term value rather than simply pursuing short-term financial returns.
 
 ## 1.2 Continuous Expansion
 
-MEHKAM continuously searches for opportunities to expand its business portfolio.
+Mehkam continuously evaluates opportunities to expand its business portfolio.
 
-Expansion can happen through:
+Expansion may occur through:
 
 - Creating new companies.
-- Acquiring valuable ideas.
+- Acquiring valuable ideas or businesses.
 - Developing existing businesses.
 - Entering new markets.
+- Establishing strategic partnerships.
+
+Expansion should remain disciplined and aligned with Mehkam's long-term strategy.
 
 ## 1.3 Value Creation
 
-Every MEHKAM business should create meaningful value through:
+Every Mehkam business should create meaningful and sustainable value.
+
+Value creation may come from:
 
 - Strong products.
 - Sustainable business models.
 - Market impact.
 - Operational excellence.
+- Technological capabilities.
+- Strong organizational execution.
+
+Portfolio growth should be measured by the quality and strategic value of businesses rather than by company count alone.
 
 ## 1.4 Business Independence
 
-As businesses grow, they gain operational independence.
+As businesses mature, they should progressively gain operational independence.
 
-Each company develops its own:
+Each business is expected to develop its own:
 
 - Team structure.
 - Operational processes.
 - Business decisions.
+- Product strategy.
 - Market strategy.
+- Financial responsibility.
 
-MEHKAM maintains ownership and strategic supervision while allowing businesses to execute independently.
+Mehkam maintains ownership and strategic supervision while allowing businesses to execute independently.
 
 # 2. Expansion Strategy
 
-MEHKAM uses multiple approaches to expand its portfolio.
+Mehkam uses multiple approaches to expand and strengthen its portfolio.
+
+The appropriate expansion method depends on the opportunity, available capabilities, strategic value, and expected long-term outcome.
 
 ## 2.1 Internal Business Creation
 
-MEHKAM creates new companies from internal opportunities.
+Mehkam may create new companies from internally identified opportunities.
 
-The process includes:
+The process generally includes:
 
 - Identifying opportunities.
-- Validating business potential.
-- Building initial foundations.
-- Creating independent companies.
+- Evaluating strategic potential.
+- Validating business viability.
+- Establishing initial foundations.
+- Developing the product or service.
+- Creating an independent business structure.
 
-## 2.2 Idea Acquisition
+## 2.2 Idea and Opportunity Acquisition
 
-MEHKAM can acquire external ideas or opportunities.
+Mehkam may acquire external ideas, products, teams, or business opportunities when they provide strategic value.
 
-After acquisition, MEHKAM transforms these ideas into structured businesses by providing:
+Following acquisition, Mehkam may provide:
 
 - Strategic direction.
-- Resources.
-- Development capabilities.
+- Capital and resources.
+- Engineering capabilities.
+- Business development capabilities.
 - Operational foundations.
+- Organizational support.
+
+The objective is to transform valuable opportunities into sustainable businesses.
 
 ## 2.3 Business Development
 
-Existing MEHKAM businesses can expand through:
+Existing Mehkam businesses are expected to continuously evaluate opportunities for development.
+
+Development may include:
 
 - New products.
+- New services.
 - New markets.
 - Strategic partnerships.
-- Increased capabilities.
+- Increased operational capabilities.
+- Expansion of customer segments.
+- Development of new revenue streams.
 
 ## 2.4 Market Expansion
 
-MEHKAM continuously evaluates new markets and industries where new businesses can be created or developed.
+Mehkam continuously evaluates new markets and industries where sustainable business opportunities may exist.
+
+Market expansion should be based on:
+
+- Market potential.
+- Strategic relevance.
+- Available capabilities.
+- Competitive conditions.
+- Long-term economic potential.
 
 # 3. Organizational Scaling Approach
 
-MEHKAM's organizational model is designed to scale with portfolio growth.
+Mehkam's organizational model is designed to evolve with portfolio growth.
 
-The structure evolves from a centralized creation model into a decentralized business ecosystem.
-MEHKAM Holding
+The organizational structure should progressively transition from a centralized business-creation model toward a decentralized ecosystem of independently operated companies.
 
-                   |
-    --------------------------------
-    |              |               |
+```text
+                         Mehkam Holding
+                              |
+             ---------------------------------
+             |               |               |
+         Business A      Business B      Business C
+             |               |               |
+          Independent      Independent      Independent
+          Operations       Operations       Operations
+```
 
-Business A Business B Business C
+## 3.1 Mehkam Holding Role
 
-## 3.1 MEHKAM Role
-
-MEHKAM remains responsible for:
+Mehkam Holding remains responsible for:
 
 - Ownership.
 - Strategic direction.
 - Portfolio management.
+- Governance.
 - Business supervision.
-- Long-term decisions.
+- Capital allocation.
+- Long-term strategic decisions.
+- Ecosystem-level capabilities.
 
 ## 3.2 Subsidiary Role
 
@@ -152,91 +225,154 @@ Each business operates independently and is responsible for:
 - Team management.
 - Product execution.
 - Market development.
+- Customer relationships.
 - Business growth.
+- Operational performance.
+
+Subsidiaries are accountable for their own execution while remaining aligned with Mehkam's strategic direction and governance requirements.
 
 ## 3.3 Scaling Philosophy
 
 As businesses mature:
 
 - Operational control moves closer to each business.
-- Decision-making becomes decentralized.
-- MEHKAM focuses more on strategy and ecosystem growth.
+- Decision-making becomes increasingly decentralized.
+- Business leadership gains greater autonomy.
+- Mehkam focuses increasingly on ownership, strategy, governance, and ecosystem development.
+
+The objective is to prevent the holding company from becoming an operational bottleneck.
 
 # 4. Future Strategic Priorities
 
-MEHKAM's future priorities focus on building a strong ecosystem of valuable businesses.
+Mehkam's future priorities focus on building a strong ecosystem of valuable and independently operating businesses.
 
 ## 4.1 Building More Businesses
 
-MEHKAM continuously develops new companies based on:
+Mehkam continuously develops new companies based on:
 
 - Market opportunities.
 - Emerging technologies.
 - Strategic opportunities.
+- Internal capabilities.
+- Unmet customer needs.
+
+New business creation should remain selective and value-driven.
 
 ## 4.2 Portfolio Expansion
 
-MEHKAM aims to increase the number and value of businesses inside its ecosystem.
+Mehkam aims to increase both the number and strategic value of businesses within its ecosystem.
 
-Growth is achieved through:
+Portfolio growth may be achieved through:
 
 - New ventures.
 - Acquisitions.
 - Business expansion.
+- Strategic investments.
+- Development of existing portfolio companies.
+
+Portfolio expansion should prioritize quality, sustainability, and strategic fit.
 
 ## 4.3 Developing Strong Capabilities
 
-MEHKAM invests in capabilities that support all businesses.
+Mehkam invests in organizational capabilities that can strengthen multiple businesses across the ecosystem.
 
-Examples:
+These capabilities may include:
 
-- Engineering capabilities.
+- Engineering.
+- Product development.
 - Business development.
-- Operational knowledge.
 - Strategic management.
+- Operational management.
+- Financial management.
+- Organizational knowledge.
+- Technology infrastructure.
+
+Shared capabilities should create leverage without creating unnecessary dependency between businesses.
 
 ## 4.4 Creating a Business Ecosystem
 
-The long-term objective is to create an ecosystem where independent businesses grow under MEHKAM ownership and strategic guidance.
+The long-term objective is to establish an ecosystem where independent businesses grow under Mehkam ownership and strategic guidance.
+
+Each business should be capable of developing its own identity, leadership, operations, and market position while benefiting from the broader capabilities and strategic advantages of the Mehkam ecosystem.
 
 # 5. Long-Term Vision Execution
 
-MEHKAM executes its long-term vision by maintaining a balance between:
+Mehkam executes its long-term growth strategy by maintaining a balance between:
 
 - Centralized ownership.
 - Strategic supervision.
-- Independent business execution.
+- Decentralized execution.
+- Independent business leadership.
+- Shared organizational capabilities.
 
-The holding company provides the foundation, direction, and governance required for businesses to achieve their maximum potential.
+The holding company provides the foundation, strategic direction, governance, and resources required for businesses to achieve their potential.
+
+At the same time, operational responsibility should remain with the business closest to the relevant market, product, customer, and execution environment.
+
+This approach allows Mehkam to scale its portfolio without proportionally increasing centralized operational complexity.
+
+# Scope
+
+This strategy applies to:
+
+- Mehkam Holding.
+- All current subsidiaries.
+- Future portfolio companies.
+- Businesses created by Mehkam.
+- Businesses acquired or incorporated into the Mehkam ecosystem.
+- Leadership responsible for portfolio and strategic decisions.
+
+The strategy provides a long-term direction and should be applied together with Mehkam's governance, operating, and decision-making frameworks.
+
+# Governance
+
+The Mehkam Long-Term Growth Strategy is an official strategic framework of Mehkam Holding.
+
+Strategic decisions involving significant portfolio expansion, business creation, acquisition, market entry, or organizational restructuring should be evaluated against this strategy.
+
+The strategy should be reviewed when:
+
+- Mehkam's long-term strategic direction changes.
+- Major portfolio decisions are made.
+- Significant market conditions change.
+- The organizational model materially evolves.
+- Scheduled strategic reviews take place.
+
+Any material modification to this document must follow Mehkam's governance and documentation review process.
 
 # Ownership
 
-Owner:
+**Owner:** Mehkam Holding
 
-MEHKAM Holding
+**Responsible Team:** Mehkam Strategy Team
 
-Responsible team/person:
+The owner is responsible for maintaining the strategic integrity of this document and ensuring that major strategic decisions remain aligned with its principles.
 
-Mehkam Strategy Team
+# Related Documents
 
-# Review Process
-
-This document should be reviewed:
-
-- When MEHKAM growth strategy changes.
-- When major portfolio decisions are made.
-- During scheduled strategic reviews.
+- Mehkam-GOV-DOC-001-governance-model
+- Mehkam-GOV-DOC-004-official-principles
+- Mehkam-OPS-DOC-001-operating-principles
+- Mehkam-OPS-DOC-002-decision-making-principles
+- Mehkam-OPS-DOC-003-engineering-and-business-mindset
+- Mehkam-STR-DOC-008-official-vision
+- GOVERNANCE.md
+- OPERATING_MODEL.md
+- BUSINESS_MODEL.md
+- ROADMAP.md
 
 # Final Statement
 
-MEHKAM Long-Term Growth Strategy defines the foundation for building a scalable ecosystem of independent companies.
+The Mehkam Long-Term Growth Strategy establishes the foundation for building a scalable ecosystem of independent companies.
 
-Through continuous expansion, business creation, ownership, and strategic supervision, MEHKAM aims to create long-term value by enabling every business in its portfolio to grow independently while contributing to the overall success of the holding.
+Through continuous business creation, strategic expansion, disciplined ownership, organizational decentralization, and long-term capability development, Mehkam aims to create sustainable value across its entire ecosystem.
 
----
+Mehkam's long-term success depends not only on creating more businesses, but on building businesses capable of becoming strong, independent, and valuable organizations under the ownership and strategic direction of Mehkam Holding.
 
 # Document History
 
 | Version | Date       | Author       | Description                                |
 | ------- | ---------- | ------------ | ------------------------------------------ |
 | 1.0.0   | 2026-08-05 | Erfan Abouei | Initial long-term growth strategy document |
+
+---

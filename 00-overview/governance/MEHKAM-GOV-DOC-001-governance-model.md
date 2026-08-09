@@ -3,6 +3,7 @@ id: MEHKAM-GOV-DOC-001
 title: Governance Model
 category: Governance
 type: Framework
+company: Mehkam Holding
 version: 1.0.0
 status: Active
 owner: Mehkam Holding
@@ -24,11 +25,13 @@ related_documents:
   - Mehkam-STR-DOC-013
 ---
 
+# Governance Model
+
+---
+
 <div align="center">
   <img src="../../04-brand/assets/logo/mehkam-symbol.svg" alt="Mehkam Logo" width="150" />
 </div>
-
-# Governance Model
 
 ## Overview
 
@@ -61,7 +64,7 @@ Mehkam Holding is the parent organization that owns and governs its business eco
 
 Structure:
 
-\`\`\`text
+```text
 Mehkam Holding
 
 ↓
@@ -75,7 +78,7 @@ Independent Business Units
 ↓
 
 Business Teams & Operations
-\`\`\`
+```
 
 Each Business Unit maintains its own:
 
@@ -96,7 +99,7 @@ Ownership principles:
 
 Ownership Model:
 
-\`\`\`text
+```text
 Business Creation
 
 ↓
@@ -110,7 +113,7 @@ Company Formation
 ↓
 
 100% Ownership by Mehkam
-\`\`\`
+```
 
 # 4. Strategic Authority Model
 
@@ -130,7 +133,7 @@ Mehkam is responsible for:
 
 Decision Flow:
 
-\`\`\`text
+```text
 Business Unit
 
 ↓
@@ -144,7 +147,7 @@ Mehkam Review & Approval
 ↓
 
 Execution
-\`\`\`
+```
 
 # 5. Operational Independence
 
@@ -174,7 +177,7 @@ Examples:
 
 Process:
 
-\`\`\`text
+```text
 Business Unit
 
 ↓
@@ -188,7 +191,7 @@ Mehkam Approval
 ↓
 
 Execution
-\`\`\`
+```
 
 Routine operations within approved boundaries remain under Business Unit authority.
 
@@ -205,7 +208,7 @@ Examples:
 
 Process:
 
-\`\`\`text
+```text
 Business Unit
 
 ↓
@@ -219,7 +222,7 @@ Mehkam Review
 ↓
 
 Approval & Implementation
-\`\`\`
+```
 
 # 8. Reporting and Oversight
 

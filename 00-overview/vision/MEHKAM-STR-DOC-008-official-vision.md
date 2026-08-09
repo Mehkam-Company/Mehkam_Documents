@@ -2,6 +2,8 @@
 id: MEHKAM-STR-DOC-008
 title: Official Vision
 category: Strategy
+type: Standard
+company: Mehkam Holding
 version: 1.0.0
 status: Active
 owner: Mehkam Holding
@@ -11,13 +13,27 @@ created_at: 2026-07-26
 updated_at: 2026-07-26
 language:
   - English
+tags:
+  - vision
+  - strategy
+  - long-term-direction
+  - technology
+  - growth
+  - innovation
+  - organizational-excellence
+related_documents:
+  - Mehkam-STR-DOC-004
+  - Mehkam-STR-DOC-005
+  - Mehkam-STR-DOC-006
+  - Mehkam-STR-DOC-007
+  - Mehkam-STR-DOC-011
 ---
+
+# Official Vision
 
 <div align="center">
   <img src="../../04-brand/assets/logo/mehkam-symbol.svg" alt="Mehkam Logo" width="150" />
 </div>
-
-# Official Vision
 
 ## Overview
 

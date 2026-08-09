@@ -2,6 +2,8 @@
 id: MEHKAM-GOV-DOC-004
 title: Official Principles
 category: Governance
+type: Framework
+company: Mehkam Holding
 version: 1.0.0
 status: Active
 owner: Mehkam Holding
@@ -11,13 +13,27 @@ created_at: 2026-07-26
 updated_at: 2026-07-26
 language:
   - English
+tags:
+  - principles
+  - governance
+  - organizational-philosophy
+  - decision-making
+  - engineering
+  - business
+related_documents:
+  - Mehkam-GOV-DOC-001
+  - Mehkam-STR-DOC-004
+  - Mehkam-STR-DOC-008
+  - Mehkam-OPS-DOC-001
+  - Mehkam-OPS-DOC-002
+  - Mehkam-OPS-DOC-003
 ---
+
+# Official Principles
 
 <div align="center">
   <img src="../../04-brand/assets/logo/mehkam-symbol.svg" alt="Mehkam Logo" width="150" />
 </div>
-
-# Official Principles
 
 ## Overview
 
@@ -49,7 +65,7 @@ They establish execution standards, organizational behavior, ownership, document
 
 Reference:
 
-- Mehkam-GOV-DOC-001-operating-principles
+- Mehkam-OPS-DOC-001-operating-principles
 
 ---
 
@@ -61,7 +77,7 @@ These principles ensure consistency, rational thinking, and alignment with Mehka
 
 Reference:
 
-- Mehkam-GOV-DOC-002-decision-making-principles
+- Mehkam-OPS-DOC-002-decision-making-principles
 
 ---
 
@@ -73,7 +89,7 @@ It aligns engineering excellence with business strategy and ensures both discipl
 
 Reference:
 
-- Mehkam-GOV-DOC-003-engineering-and-business-mindset
+- Mehkam-OPS-DOC-003-engineering-and-business-mindset
 
 # Scope
 
@@ -96,7 +112,7 @@ Any modification must follow Mehkam's governance and documentation review proces
 
 # Related Documents
 
-- Mehkam-OPS-DOC-001-company-profile
+- Mehkam-GOV-DOC-001-governance-model
 - Mehkam-STR-DOC-004-official-mission
 - Mehkam-STR-DOC-008-official-vision
 - GOVERNANCE.md
