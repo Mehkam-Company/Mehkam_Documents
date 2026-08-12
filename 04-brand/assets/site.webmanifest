@@ -1,0 +1,17 @@
+{
+  "name": "Mehkam",
+  "short_name": "Mehkam",
+  "icons": [
+    {
+      "src": "/assets/logo/favicon/MEHKAM-BRAND-ASSET-LOGO-FAVICON-BLACK-V1.0.0-192X192-PNG.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/logo/favicon/MEHKAM-BRAND-ASSET-LOGO-FAVICON-BLACK-V1.0.0-512X512-PNG.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "display": "standalone"
+}
