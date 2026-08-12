@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "brand": "Mehkam",
+    "system": "Typography Asset Package",
+    "version": "V1.0.0",
+    "primary_typeface": "Peyda",
+    "format": "WOFF2",
+    "weights_count": 9
+  },
+  "fonts": [
+    {
+      "family": "Peyda",
+      "weight": "Thin",
+      "source": "Peyda-Thin.ttf",
+      "file": "assets/typography/fonts/peyda/thin/MEHKAM-TYPE-PEYDA-THIN-V1.0.0.woff2",
+      "format": "WOFF2",
+      "version": "V1.0.0",
+      "status": "approved"
+    },
+    {
+      "family": "Peyda",
+      "weight": "ExtraLight",
+      "source": "peyda-extralight.ttf",
+      "file": "assets/typography/fonts/peyda/extra-light/MEHKAM-TYPE-PEYDA-EXTRALIGHT-V1.0.0.woff2",
+      "format": "WOFF2",
+      "version": "V1.0.0",
+      "status": "approved"
+    },
+    {
+      "family": "Peyda",
+      "weight": "Light",
+      "source": "peyda-light.ttf",
+      "file": "assets/typography/fonts/peyda/light/MEHKAM-TYPE-PEYDA-LIGHT-V1.0.0.woff2",
+      "format": "WOFF2",
+      "version": "V1.0.0",
+      "status": "approved"
+    },
+    {
+      "family": "Peyda",
+      "weight": "Regular",
+      "source": "Peyda-Regular.ttf",
+      "file": "assets/typography/fonts/peyda/regular/MEHKAM-TYPE-PEYDA-REGULAR-V1.0.0.woff2",
+      "format": "WOFF2",
+      "version": "V1.0.0",
+      "status": "approved"
+    },
+    {
+      "family": "Peyda",
+      "weight": "Medium",
+      "source": "Peyda-Medium.ttf",
+      "file": "assets/typography/fonts/peyda/medium/MEHKAM-TYPE-PEYDA-MEDIUM-V1.0.0.woff2",
+      "format": "WOFF2",
+      "version": "V1.0.0",
+      "status": "approved"
+    },
+    {
+      "family": "Peyda",
+      "weight": "SemiBold",
+      "source": "Peyda-SemiBold.ttf",
+      "file": "assets/typography/fonts/peyda/semi-bold/MEHKAM-TYPE-PEYDA-SEMIBOLD-V1.0.0.woff2",
+      "format": "WOFF2",
+      "version": "V1.0.0",
+      "status": "approved"
+    },
+    {
+      "family": "Peyda",
+      "weight": "Bold",
+      "source": "Peyda-Bold.ttf",
+      "file": "assets/typography/fonts/peyda/bold/MEHKAM-TYPE-PEYDA-BOLD-V1.0.0.woff2",
+      "format": "WOFF2",
+      "version": "V1.0.0",
+      "status": "approved"
+    },
+    {
+      "family": "Peyda",
+      "weight": "ExtraBold",
+      "source": "Peyda-ExtraBold.ttf",
+      "file": "assets/typography/fonts/peyda/extra-bold/MEHKAM-TYPE-PEYDA-EXTRABOLD-V1.0.0.woff2",
+      "format": "WOFF2",
+      "version": "V1.0.0",
+      "status": "approved"
+    },
+    {
+      "family": "Peyda",
+      "weight": "Black",
+      "source": "Peyda-Black.ttf",
+      "file": "assets/typography/fonts/peyda/black/MEHKAM-TYPE-PEYDA-BLACK-V1.0.0.woff2",
+      "format": "WOFF2",
+      "version": "V1.0.0",
+      "status": "approved"
+    }
+  ]
+}
