@@ -1,0 +1,19 @@
+:root {
+  --mehkam-black: #000000;
+  --mehkam-white: #FFFFFF;
+  --mehkam-gray-000: #000000;
+  --mehkam-gray-010: #1A1A1A;
+  --mehkam-gray-020: #333333;
+  --mehkam-gray-030: #4C4C4C;
+  --mehkam-gray-040: #666666;
+  --mehkam-gray-050: #808080;
+  --mehkam-gray-060: #999999;
+  --mehkam-gray-070: #B2B2B2;
+  --mehkam-gray-080: #CCCCCC;
+  --mehkam-gray-090: #E6E6E6;
+  --mehkam-gray-100: #FFFFFF;
+  --mehkam-semantic-success: var(--mehkam-gray-070);
+  --mehkam-semantic-error: var(--mehkam-gray-030);
+  --mehkam-semantic-warning: var(--mehkam-gray-050);
+  --mehkam-semantic-info: var(--mehkam-gray-080);
+}

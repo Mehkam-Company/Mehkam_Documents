@@ -1,0 +1,66 @@
+{
+  "SUCCESS": {
+    "source_gray": "MEHKAM-GRAY-070",
+    "percentage": 70,
+    "hex": "#B2B2B2",
+    "rgb": [
+      178,
+      178,
+      178
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      30
+    ]
+  },
+  "ERROR": {
+    "source_gray": "MEHKAM-GRAY-030",
+    "percentage": 30,
+    "hex": "#4C4C4C",
+    "rgb": [
+      76,
+      76,
+      76
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      70
+    ]
+  },
+  "WARNING": {
+    "source_gray": "MEHKAM-GRAY-050",
+    "percentage": 50,
+    "hex": "#808080",
+    "rgb": [
+      128,
+      128,
+      128
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      50
+    ]
+  },
+  "INFO": {
+    "source_gray": "MEHKAM-GRAY-080",
+    "percentage": 80,
+    "hex": "#CCCCCC",
+    "rgb": [
+      204,
+      204,
+      204
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      20
+    ]
+  }
+}

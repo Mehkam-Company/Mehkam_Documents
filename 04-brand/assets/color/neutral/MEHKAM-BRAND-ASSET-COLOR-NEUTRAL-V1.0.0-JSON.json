@@ -1,0 +1,167 @@
+{
+  "MEHKAM-GRAY-000": {
+    "percentage": 0,
+    "hex": "#000000",
+    "rgb": [
+      0,
+      0,
+      0
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      100
+    ]
+  },
+  "MEHKAM-GRAY-010": {
+    "percentage": 10,
+    "hex": "#1A1A1A",
+    "rgb": [
+      26,
+      26,
+      26
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      90
+    ]
+  },
+  "MEHKAM-GRAY-020": {
+    "percentage": 20,
+    "hex": "#333333",
+    "rgb": [
+      51,
+      51,
+      51
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      80
+    ]
+  },
+  "MEHKAM-GRAY-030": {
+    "percentage": 30,
+    "hex": "#4C4C4C",
+    "rgb": [
+      76,
+      76,
+      76
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      70
+    ]
+  },
+  "MEHKAM-GRAY-040": {
+    "percentage": 40,
+    "hex": "#666666",
+    "rgb": [
+      102,
+      102,
+      102
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      60
+    ]
+  },
+  "MEHKAM-GRAY-050": {
+    "percentage": 50,
+    "hex": "#808080",
+    "rgb": [
+      128,
+      128,
+      128
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      50
+    ]
+  },
+  "MEHKAM-GRAY-060": {
+    "percentage": 60,
+    "hex": "#999999",
+    "rgb": [
+      153,
+      153,
+      153
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      40
+    ]
+  },
+  "MEHKAM-GRAY-070": {
+    "percentage": 70,
+    "hex": "#B2B2B2",
+    "rgb": [
+      178,
+      178,
+      178
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      30
+    ]
+  },
+  "MEHKAM-GRAY-080": {
+    "percentage": 80,
+    "hex": "#CCCCCC",
+    "rgb": [
+      204,
+      204,
+      204
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      20
+    ]
+  },
+  "MEHKAM-GRAY-090": {
+    "percentage": 90,
+    "hex": "#E6E6E6",
+    "rgb": [
+      230,
+      230,
+      230
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      10
+    ]
+  },
+  "MEHKAM-GRAY-100": {
+    "percentage": 100,
+    "hex": "#FFFFFF",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
