@@ -5,10 +5,7 @@
   "master_stroke": "1.75px",
   "stroke_cap": "round",
   "stroke_join": "round",
-  "variants": [
-    "BLACK",
-    "WHITE"
-  ],
+  "variants": ["BLACK", "WHITE"],
   "icons": [
     {
       "asset_name": "NAVIGATION-MENU",
@@ -110,6 +107,7 @@
       "format": "SVG",
       "filename": "MEHKAM-BRAND-ASSET-ICON-NAVIGATION-SETTINGS-WHITE-V1.0.0-24X24-SVG.svg"
     },
+
     {
       "asset_name": "DIRECTION-ARROW-LEFT",
       "asset_type": "ICON",
@@ -229,6 +227,530 @@
       "dimensions": "24X24",
       "format": "SVG",
       "filename": "MEHKAM-BRAND-ASSET-ICON-DIRECTION-CHEVRON-RIGHT-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+
+    {
+      "asset_name": "ACTION-PLUS",
+      "asset_type": "ICON",
+      "category": "ACTION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-ACTION-PLUS-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "ACTION-PLUS",
+      "asset_type": "ICON",
+      "category": "ACTION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-ACTION-PLUS-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "ACTION-MINUS",
+      "asset_type": "ICON",
+      "category": "ACTION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-ACTION-MINUS-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "ACTION-MINUS",
+      "asset_type": "ICON",
+      "category": "ACTION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-ACTION-MINUS-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "ACTION-CHECK",
+      "asset_type": "ICON",
+      "category": "ACTION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-ACTION-CHECK-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "ACTION-CHECK",
+      "asset_type": "ICON",
+      "category": "ACTION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-ACTION-CHECK-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "ACTION-DOWNLOAD",
+      "asset_type": "ICON",
+      "category": "ACTION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-ACTION-DOWNLOAD-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "ACTION-DOWNLOAD",
+      "asset_type": "ICON",
+      "category": "ACTION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-ACTION-DOWNLOAD-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "ACTION-UPLOAD",
+      "asset_type": "ICON",
+      "category": "ACTION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-ACTION-UPLOAD-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "ACTION-UPLOAD",
+      "asset_type": "ICON",
+      "category": "ACTION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-ACTION-UPLOAD-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "ACTION-EXTERNAL-LINK",
+      "asset_type": "ICON",
+      "category": "ACTION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-ACTION-EXTERNAL-LINK-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "ACTION-EXTERNAL-LINK",
+      "asset_type": "ICON",
+      "category": "ACTION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-ACTION-EXTERNAL-LINK-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+
+    {
+      "asset_name": "COMMUNICATION-MAIL",
+      "asset_type": "ICON",
+      "category": "COMMUNICATION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-COMMUNICATION-MAIL-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "COMMUNICATION-MAIL",
+      "asset_type": "ICON",
+      "category": "COMMUNICATION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-COMMUNICATION-MAIL-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "COMMUNICATION-PHONE",
+      "asset_type": "ICON",
+      "category": "COMMUNICATION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-COMMUNICATION-PHONE-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "COMMUNICATION-PHONE",
+      "asset_type": "ICON",
+      "category": "COMMUNICATION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-COMMUNICATION-PHONE-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "COMMUNICATION-MESSAGE",
+      "asset_type": "ICON",
+      "category": "COMMUNICATION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-COMMUNICATION-MESSAGE-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "COMMUNICATION-MESSAGE",
+      "asset_type": "ICON",
+      "category": "COMMUNICATION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-COMMUNICATION-MESSAGE-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "COMMUNICATION-NOTIFICATION",
+      "asset_type": "ICON",
+      "category": "COMMUNICATION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-COMMUNICATION-NOTIFICATION-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "COMMUNICATION-NOTIFICATION",
+      "asset_type": "ICON",
+      "category": "COMMUNICATION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-COMMUNICATION-NOTIFICATION-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+
+    {
+      "asset_name": "BUSINESS-BUILDING",
+      "asset_type": "ICON",
+      "category": "BUSINESS",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-BUSINESS-BUILDING-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "BUSINESS-BUILDING",
+      "asset_type": "ICON",
+      "category": "BUSINESS",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-BUSINESS-BUILDING-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "BUSINESS-BRIEFCASE",
+      "asset_type": "ICON",
+      "category": "BUSINESS",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-BUSINESS-BRIEFCASE-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "BUSINESS-BRIEFCASE",
+      "asset_type": "ICON",
+      "category": "BUSINESS",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-BUSINESS-BRIEFCASE-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "BUSINESS-CHART",
+      "asset_type": "ICON",
+      "category": "BUSINESS",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-BUSINESS-CHART-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "BUSINESS-CHART",
+      "asset_type": "ICON",
+      "category": "BUSINESS",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-BUSINESS-CHART-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "BUSINESS-WALLET",
+      "asset_type": "ICON",
+      "category": "BUSINESS",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-BUSINESS-WALLET-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "BUSINESS-WALLET",
+      "asset_type": "ICON",
+      "category": "BUSINESS",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-BUSINESS-WALLET-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "BUSINESS-DOCUMENT",
+      "asset_type": "ICON",
+      "category": "BUSINESS",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-BUSINESS-DOCUMENT-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "BUSINESS-DOCUMENT",
+      "asset_type": "ICON",
+      "category": "BUSINESS",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-BUSINESS-DOCUMENT-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "PEOPLE-USER",
+      "asset_type": "ICON",
+      "category": "PEOPLE",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-PEOPLE-USER-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "PEOPLE-USER",
+      "asset_type": "ICON",
+      "category": "PEOPLE",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-PEOPLE-USER-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "PEOPLE-USERS",
+      "asset_type": "ICON",
+      "category": "PEOPLE",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-PEOPLE-USERS-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "PEOPLE-USERS",
+      "asset_type": "ICON",
+      "category": "PEOPLE",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-PEOPLE-USERS-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+
+    {
+      "asset_name": "TECHNOLOGY-SERVER",
+      "asset_type": "ICON",
+      "category": "TECHNOLOGY",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-TECHNOLOGY-SERVER-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "TECHNOLOGY-SERVER",
+      "asset_type": "ICON",
+      "category": "TECHNOLOGY",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-TECHNOLOGY-SERVER-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "TECHNOLOGY-DATABASE",
+      "asset_type": "ICON",
+      "category": "TECHNOLOGY",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-TECHNOLOGY-DATABASE-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "TECHNOLOGY-DATABASE",
+      "asset_type": "ICON",
+      "category": "TECHNOLOGY",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-TECHNOLOGY-DATABASE-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "TECHNOLOGY-CODE",
+      "asset_type": "ICON",
+      "category": "TECHNOLOGY",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-TECHNOLOGY-CODE-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "TECHNOLOGY-CODE",
+      "asset_type": "ICON",
+      "category": "TECHNOLOGY",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-TECHNOLOGY-CODE-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "TECHNOLOGY-CLOUD",
+      "asset_type": "ICON",
+      "category": "TECHNOLOGY",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-TECHNOLOGY-CLOUD-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "TECHNOLOGY-CLOUD",
+      "asset_type": "ICON",
+      "category": "TECHNOLOGY",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-TECHNOLOGY-CLOUD-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "TECHNOLOGY-SHIELD",
+      "asset_type": "ICON",
+      "category": "TECHNOLOGY",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-TECHNOLOGY-SHIELD-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "TECHNOLOGY-SHIELD",
+      "asset_type": "ICON",
+      "category": "TECHNOLOGY",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-TECHNOLOGY-SHIELD-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "STATUS-INFO",
+      "asset_type": "ICON",
+      "category": "STATUS",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-STATUS-INFO-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "STATUS-INFO",
+      "asset_type": "ICON",
+      "category": "STATUS",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-STATUS-INFO-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "STATUS-SUCCESS",
+      "asset_type": "ICON",
+      "category": "STATUS",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-STATUS-SUCCESS-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "STATUS-SUCCESS",
+      "asset_type": "ICON",
+      "category": "STATUS",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-STATUS-SUCCESS-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "STATUS-WARNING",
+      "asset_type": "ICON",
+      "category": "STATUS",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-STATUS-WARNING-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "STATUS-WARNING",
+      "asset_type": "ICON",
+      "category": "STATUS",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-STATUS-WARNING-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "STATUS-ERROR",
+      "asset_type": "ICON",
+      "category": "STATUS",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-STATUS-ERROR-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "STATUS-ERROR",
+      "asset_type": "ICON",
+      "category": "STATUS",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-STATUS-ERROR-WHITE-V1.0.0-24X24-SVG.svg"
     }
   ]
 }
