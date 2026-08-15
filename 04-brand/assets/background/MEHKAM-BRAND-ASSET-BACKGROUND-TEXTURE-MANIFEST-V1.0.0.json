@@ -1,0 +1,56 @@
+{
+  "system": "Mehkam Brand Background & Texture System",
+  "version": "1.0.0",
+  "assets": [
+    {
+      "asset_name": "BG-LIGHT-LIGHT-GRID",
+      "asset_type": "BACKGROUND_TEXTURE",
+      "category": "LIGHT",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-BG-LIGHT-LIGHT-GRID-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION"
+    },
+    {
+      "asset_name": "BG-DARK-DARK-FRAME",
+      "asset_type": "BACKGROUND_TEXTURE",
+      "category": "DARK",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-BG-DARK-DARK-FRAME-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION"
+    },
+    {
+      "asset_name": "BG-GEOMETRIC-GEOMETRIC-COMPOSITION-01",
+      "asset_type": "BACKGROUND_TEXTURE",
+      "category": "GEOMETRIC",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-BG-GEOMETRIC-GEOMETRIC-COMPOSITION-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION"
+    },
+    {
+      "asset_name": "BG-TEXTURE-SUBTLE-GRAIN-01",
+      "asset_type": "BACKGROUND_TEXTURE",
+      "category": "TEXTURE",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-BG-TEXTURE-SUBTLE-GRAIN-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION"
+    },
+    {
+      "asset_name": "BG-PRESENTATION-PRESENTATION-MASTER-01",
+      "asset_type": "BACKGROUND_TEXTURE",
+      "category": "PRESENTATION",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-BG-PRESENTATION-PRESENTATION-MASTER-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION"
+    }
+  ]
+}
