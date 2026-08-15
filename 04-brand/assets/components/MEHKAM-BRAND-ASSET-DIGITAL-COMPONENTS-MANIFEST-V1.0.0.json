@@ -1,0 +1,185 @@
+{
+  "system": "Mehkam Digital Brand Component System",
+  "version": "1.0.0",
+  "design_principles": [
+    "minimal",
+    "structured",
+    "premium",
+    "monochromatic",
+    "consistent",
+    "accessible"
+  ],
+  "components": [
+    {
+      "asset_name": "CARDS-DEFAULT",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "CARDS",
+      "variant": "DEFAULT",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/cards/cards-default"
+    },
+    {
+      "asset_name": "CARDS-ELEVATED",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "CARDS",
+      "variant": "ELEVATED",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/cards/cards-elevated"
+    },
+    {
+      "asset_name": "CARDS-OUTLINED",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "CARDS",
+      "variant": "OUTLINED",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/cards/cards-outlined"
+    },
+    {
+      "asset_name": "BUTTONS-PRIMARY",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "BUTTONS",
+      "variant": "PRIMARY",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/buttons/buttons-primary"
+    },
+    {
+      "asset_name": "BUTTONS-SECONDARY",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "BUTTONS",
+      "variant": "SECONDARY",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/buttons/buttons-secondary"
+    },
+    {
+      "asset_name": "BUTTONS-OUTLINE",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "BUTTONS",
+      "variant": "OUTLINE",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/buttons/buttons-outline"
+    },
+    {
+      "asset_name": "BUTTONS-GHOST",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "BUTTONS",
+      "variant": "GHOST",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/buttons/buttons-ghost"
+    },
+    {
+      "asset_name": "BADGES-DEFAULT",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "BADGES",
+      "variant": "DEFAULT",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/badges/badges-default"
+    },
+    {
+      "asset_name": "BADGES-STATUS",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "BADGES",
+      "variant": "STATUS",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/badges/badges-status"
+    },
+    {
+      "asset_name": "BADGES-LABEL",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "BADGES",
+      "variant": "LABEL",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/badges/badges-label"
+    },
+    {
+      "asset_name": "CONTAINERS-DEFAULT",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "CONTAINERS",
+      "variant": "DEFAULT",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/containers/containers-default"
+    },
+    {
+      "asset_name": "CONTAINERS-SECTION",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "CONTAINERS",
+      "variant": "SECTION",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/containers/containers-section"
+    },
+    {
+      "asset_name": "CONTAINERS-CONTENT",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "CONTAINERS",
+      "variant": "CONTENT",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/containers/containers-content"
+    },
+    {
+      "asset_name": "SEPARATORS-HORIZONTAL",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "SEPARATORS",
+      "variant": "HORIZONTAL",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/separators/separators-horizontal"
+    },
+    {
+      "asset_name": "SEPARATORS-VERTICAL",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "SEPARATORS",
+      "variant": "VERTICAL",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/separators/separators-vertical"
+    },
+    {
+      "asset_name": "STATES-DEFAULT",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "STATES",
+      "variant": "DEFAULT",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/states/states-default"
+    },
+    {
+      "asset_name": "STATES-HOVER",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "STATES",
+      "variant": "HOVER",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/states/states-hover"
+    },
+    {
+      "asset_name": "STATES-ACTIVE",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "STATES",
+      "variant": "ACTIVE",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/states/states-active"
+    },
+    {
+      "asset_name": "STATES-DISABLED",
+      "asset_type": "DIGITAL_COMPONENT",
+      "category": "STATES",
+      "variant": "DISABLED",
+      "version": "1.0.0",
+      "status": "FOUNDATION",
+      "source": "components/states/states-disabled"
+    }
+  ]
+}
