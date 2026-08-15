@@ -1,0 +1,286 @@
+{
+  "system": "Mehkam Imagery Asset Foundation",
+  "version": "1.0.0",
+  "visual_direction": [
+    "premium",
+    "corporate",
+    "minimal",
+    "structured",
+    "monochromatic",
+    "leadership-oriented"
+  ],
+  "color_direction": "black-white-neutral",
+  "asset_count": 15,
+  "assets": [
+    {
+      "asset_name": "PEOPLE-LEADERSHIP-EXECUTIVE-PORTRAIT-01",
+      "asset_type": "IMAGERY",
+      "category": "PEOPLE",
+      "subcategory": "LEADERSHIP",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-IMG-PEOPLE-LEADERSHIP-EXECUTIVE-PORTRAIT-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION",
+      "usage": [
+        "corporate",
+        "presentation",
+        "website",
+        "marketing",
+        "internal-communication"
+      ]
+    },
+    {
+      "asset_name": "PEOPLE-LEADERSHIP-EXECUTIVE-PORTRAIT-02",
+      "asset_type": "IMAGERY",
+      "category": "PEOPLE",
+      "subcategory": "LEADERSHIP",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-IMG-PEOPLE-LEADERSHIP-EXECUTIVE-PORTRAIT-02-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION",
+      "usage": [
+        "corporate",
+        "presentation",
+        "website",
+        "marketing",
+        "internal-communication"
+      ]
+    },
+    {
+      "asset_name": "PEOPLE-PROFESSIONAL-COLLABORATION-01",
+      "asset_type": "IMAGERY",
+      "category": "PEOPLE",
+      "subcategory": "PROFESSIONAL",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-IMG-PEOPLE-PROFESSIONAL-COLLABORATION-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION",
+      "usage": [
+        "corporate",
+        "presentation",
+        "website",
+        "marketing",
+        "internal-communication"
+      ]
+    },
+    {
+      "asset_name": "PEOPLE-PROFESSIONAL-COLLABORATION-02",
+      "asset_type": "IMAGERY",
+      "category": "PEOPLE",
+      "subcategory": "PROFESSIONAL",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-IMG-PEOPLE-PROFESSIONAL-COLLABORATION-02-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION",
+      "usage": [
+        "corporate",
+        "presentation",
+        "website",
+        "marketing",
+        "internal-communication"
+      ]
+    },
+    {
+      "asset_name": "PEOPLE-CORPORATE-TEAM-ENVIRONMENT-01",
+      "asset_type": "IMAGERY",
+      "category": "PEOPLE",
+      "subcategory": "CORPORATE",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-IMG-PEOPLE-CORPORATE-TEAM-ENVIRONMENT-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION",
+      "usage": [
+        "corporate",
+        "presentation",
+        "website",
+        "marketing",
+        "internal-communication"
+      ]
+    },
+    {
+      "asset_name": "CORPORATE-OFFICE-MODERN-OFFICE-01",
+      "asset_type": "IMAGERY",
+      "category": "CORPORATE",
+      "subcategory": "OFFICE",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-IMG-CORPORATE-OFFICE-MODERN-OFFICE-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION",
+      "usage": [
+        "corporate",
+        "presentation",
+        "website",
+        "marketing",
+        "internal-communication"
+      ]
+    },
+    {
+      "asset_name": "CORPORATE-OFFICE-MEETING-ROOM-01",
+      "asset_type": "IMAGERY",
+      "category": "CORPORATE",
+      "subcategory": "OFFICE",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-IMG-CORPORATE-OFFICE-MEETING-ROOM-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION",
+      "usage": [
+        "corporate",
+        "presentation",
+        "website",
+        "marketing",
+        "internal-communication"
+      ]
+    },
+    {
+      "asset_name": "CORPORATE-ARCHITECTURE-CORPORATE-ARCHITECTURE-01",
+      "asset_type": "IMAGERY",
+      "category": "CORPORATE",
+      "subcategory": "ARCHITECTURE",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-IMG-CORPORATE-ARCHITECTURE-CORPORATE-ARCHITECTURE-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION",
+      "usage": [
+        "corporate",
+        "presentation",
+        "website",
+        "marketing",
+        "internal-communication"
+      ]
+    },
+    {
+      "asset_name": "CORPORATE-ARCHITECTURE-GEOMETRIC-FACADE-01",
+      "asset_type": "IMAGERY",
+      "category": "CORPORATE",
+      "subcategory": "ARCHITECTURE",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-IMG-CORPORATE-ARCHITECTURE-GEOMETRIC-FACADE-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION",
+      "usage": [
+        "corporate",
+        "presentation",
+        "website",
+        "marketing",
+        "internal-communication"
+      ]
+    },
+    {
+      "asset_name": "CORPORATE-ENVIRONMENT-MINIMAL-WORKSPACE-01",
+      "asset_type": "IMAGERY",
+      "category": "CORPORATE",
+      "subcategory": "ENVIRONMENT",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-IMG-CORPORATE-ENVIRONMENT-MINIMAL-WORKSPACE-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION",
+      "usage": [
+        "corporate",
+        "presentation",
+        "website",
+        "marketing",
+        "internal-communication"
+      ]
+    },
+    {
+      "asset_name": "TECHNOLOGY-SOFTWARE-SOFTWARE-SYSTEM-01",
+      "asset_type": "IMAGERY",
+      "category": "TECHNOLOGY",
+      "subcategory": "SOFTWARE",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-IMG-TECHNOLOGY-SOFTWARE-SOFTWARE-SYSTEM-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION",
+      "usage": [
+        "corporate",
+        "presentation",
+        "website",
+        "marketing",
+        "internal-communication"
+      ]
+    },
+    {
+      "asset_name": "TECHNOLOGY-SOFTWARE-ENGINEERING-WORKSPACE-01",
+      "asset_type": "IMAGERY",
+      "category": "TECHNOLOGY",
+      "subcategory": "SOFTWARE",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-IMG-TECHNOLOGY-SOFTWARE-ENGINEERING-WORKSPACE-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION",
+      "usage": [
+        "corporate",
+        "presentation",
+        "website",
+        "marketing",
+        "internal-communication"
+      ]
+    },
+    {
+      "asset_name": "TECHNOLOGY-AI-AI-INTELLIGENCE-01",
+      "asset_type": "IMAGERY",
+      "category": "TECHNOLOGY",
+      "subcategory": "AI",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-IMG-TECHNOLOGY-AI-AI-INTELLIGENCE-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION",
+      "usage": [
+        "corporate",
+        "presentation",
+        "website",
+        "marketing",
+        "internal-communication"
+      ]
+    },
+    {
+      "asset_name": "TECHNOLOGY-AI-DATA-INTELLIGENCE-01",
+      "asset_type": "IMAGERY",
+      "category": "TECHNOLOGY",
+      "subcategory": "AI",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-IMG-TECHNOLOGY-AI-DATA-INTELLIGENCE-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION",
+      "usage": [
+        "corporate",
+        "presentation",
+        "website",
+        "marketing",
+        "internal-communication"
+      ]
+    },
+    {
+      "asset_name": "TECHNOLOGY-INNOVATION-FUTURE-SYSTEMS-01",
+      "asset_type": "IMAGERY",
+      "category": "TECHNOLOGY",
+      "subcategory": "INNOVATION",
+      "version": "1.0.0",
+      "dimensions": "2400X1600",
+      "format": "PNG",
+      "filename": "MEHKAM-BRAND-ASSET-IMG-TECHNOLOGY-INNOVATION-FUTURE-SYSTEMS-01-V1.0.0-2400X1600-PNG.png",
+      "status": "FOUNDATION",
+      "usage": [
+        "corporate",
+        "presentation",
+        "website",
+        "marketing",
+        "internal-communication"
+      ]
+    }
+  ]
+}
