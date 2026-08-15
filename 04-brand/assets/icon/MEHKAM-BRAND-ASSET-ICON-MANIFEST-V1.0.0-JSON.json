@@ -1,0 +1,234 @@
+{
+  "system": "Mehkam Icon System",
+  "version": "1.0.0",
+  "master_grid": "24X24",
+  "master_stroke": "1.75px",
+  "stroke_cap": "round",
+  "stroke_join": "round",
+  "variants": [
+    "BLACK",
+    "WHITE"
+  ],
+  "icons": [
+    {
+      "asset_name": "NAVIGATION-MENU",
+      "asset_type": "ICON",
+      "category": "NAVIGATION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-NAVIGATION-MENU-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "NAVIGATION-MENU",
+      "asset_type": "ICON",
+      "category": "NAVIGATION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-NAVIGATION-MENU-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "NAVIGATION-CLOSE",
+      "asset_type": "ICON",
+      "category": "NAVIGATION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-NAVIGATION-CLOSE-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "NAVIGATION-CLOSE",
+      "asset_type": "ICON",
+      "category": "NAVIGATION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-NAVIGATION-CLOSE-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "NAVIGATION-SEARCH",
+      "asset_type": "ICON",
+      "category": "NAVIGATION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-NAVIGATION-SEARCH-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "NAVIGATION-SEARCH",
+      "asset_type": "ICON",
+      "category": "NAVIGATION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-NAVIGATION-SEARCH-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "NAVIGATION-HOME",
+      "asset_type": "ICON",
+      "category": "NAVIGATION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-NAVIGATION-HOME-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "NAVIGATION-HOME",
+      "asset_type": "ICON",
+      "category": "NAVIGATION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-NAVIGATION-HOME-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "NAVIGATION-SETTINGS",
+      "asset_type": "ICON",
+      "category": "NAVIGATION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-NAVIGATION-SETTINGS-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "NAVIGATION-SETTINGS",
+      "asset_type": "ICON",
+      "category": "NAVIGATION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-NAVIGATION-SETTINGS-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "DIRECTION-ARROW-LEFT",
+      "asset_type": "ICON",
+      "category": "DIRECTION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-DIRECTION-ARROW-LEFT-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "DIRECTION-ARROW-LEFT",
+      "asset_type": "ICON",
+      "category": "DIRECTION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-DIRECTION-ARROW-LEFT-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "DIRECTION-ARROW-RIGHT",
+      "asset_type": "ICON",
+      "category": "DIRECTION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-DIRECTION-ARROW-RIGHT-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "DIRECTION-ARROW-RIGHT",
+      "asset_type": "ICON",
+      "category": "DIRECTION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-DIRECTION-ARROW-RIGHT-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "DIRECTION-ARROW-UP",
+      "asset_type": "ICON",
+      "category": "DIRECTION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-DIRECTION-ARROW-UP-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "DIRECTION-ARROW-UP",
+      "asset_type": "ICON",
+      "category": "DIRECTION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-DIRECTION-ARROW-UP-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "DIRECTION-ARROW-DOWN",
+      "asset_type": "ICON",
+      "category": "DIRECTION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-DIRECTION-ARROW-DOWN-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "DIRECTION-ARROW-DOWN",
+      "asset_type": "ICON",
+      "category": "DIRECTION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-DIRECTION-ARROW-DOWN-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "DIRECTION-CHEVRON-LEFT",
+      "asset_type": "ICON",
+      "category": "DIRECTION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-DIRECTION-CHEVRON-LEFT-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "DIRECTION-CHEVRON-LEFT",
+      "asset_type": "ICON",
+      "category": "DIRECTION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-DIRECTION-CHEVRON-LEFT-WHITE-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "DIRECTION-CHEVRON-RIGHT",
+      "asset_type": "ICON",
+      "category": "DIRECTION",
+      "variant": "BLACK",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-DIRECTION-CHEVRON-RIGHT-BLACK-V1.0.0-24X24-SVG.svg"
+    },
+    {
+      "asset_name": "DIRECTION-CHEVRON-RIGHT",
+      "asset_type": "ICON",
+      "category": "DIRECTION",
+      "variant": "WHITE",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "format": "SVG",
+      "filename": "MEHKAM-BRAND-ASSET-ICON-DIRECTION-CHEVRON-RIGHT-WHITE-V1.0.0-24X24-SVG.svg"
+    }
+  ]
+}
