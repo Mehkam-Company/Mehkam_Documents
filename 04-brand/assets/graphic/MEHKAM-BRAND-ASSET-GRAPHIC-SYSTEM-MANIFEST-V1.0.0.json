@@ -1,0 +1,98 @@
+{
+  "system": "Mehkam Brand Shape & Graphic Element System",
+  "version": "1.0.0",
+  "master_grid": "24X24",
+  "master_stroke": "1.75px",
+  "stroke_cap": "round",
+  "stroke_join": "round",
+  "variants": [
+    "BLACK",
+    "WHITE"
+  ],
+  "elements": [
+    {
+      "asset_name": "BLOCK",
+      "asset_type": "GRAPHIC_ELEMENT",
+      "category": "GEOMETRIC",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "formats": [
+        "SVG"
+      ],
+      "variants": [
+        "BLACK",
+        "WHITE"
+      ]
+    },
+    {
+      "asset_name": "FRAME",
+      "asset_type": "GRAPHIC_ELEMENT",
+      "category": "GEOMETRIC",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "formats": [
+        "SVG"
+      ],
+      "variants": [
+        "BLACK",
+        "WHITE"
+      ]
+    },
+    {
+      "asset_name": "CORNER",
+      "asset_type": "GRAPHIC_ELEMENT",
+      "category": "GEOMETRIC",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "formats": [
+        "SVG"
+      ],
+      "variants": [
+        "BLACK",
+        "WHITE"
+      ]
+    },
+    {
+      "asset_name": "GRID",
+      "asset_type": "GRAPHIC_ELEMENT",
+      "category": "GEOMETRIC",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "formats": [
+        "SVG"
+      ],
+      "variants": [
+        "BLACK",
+        "WHITE"
+      ]
+    },
+    {
+      "asset_name": "CIRCLE",
+      "asset_type": "GRAPHIC_ELEMENT",
+      "category": "GEOMETRIC",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "formats": [
+        "SVG"
+      ],
+      "variants": [
+        "BLACK",
+        "WHITE"
+      ]
+    },
+    {
+      "asset_name": "LINE",
+      "asset_type": "GRAPHIC_ELEMENT",
+      "category": "GEOMETRIC",
+      "version": "1.0.0",
+      "dimensions": "24X24",
+      "formats": [
+        "SVG"
+      ],
+      "variants": [
+        "BLACK",
+        "WHITE"
+      ]
+    }
+  ]
+}
