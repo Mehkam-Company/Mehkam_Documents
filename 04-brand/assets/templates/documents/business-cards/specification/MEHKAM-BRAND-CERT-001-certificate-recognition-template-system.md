@@ -30,7 +30,7 @@ related_documents:
 ---
 
 <div align="center">
-  <img src="../../04-brand/assets/logo/mehkam-symbol.svg" alt="Mehkam Logo" width="150" />
+  <img src="../../../../../assets/logo/png/mehkam-symbol-white-2048w.png" alt="Mehkam Logo" width="150" />
 </div>
 
 ## Overview
@@ -45,15 +45,15 @@ Final visual template execution is delegated to the design phase.
 
 # 1. Certificate System Identity
 
-| Property | Value |
-|---|---|
-| Organization | Mehkam Holding |
-| Document Type | Certificate and Recognition Template System |
-| Primary Language | English |
-| Typography | Peyda |
-| Visual Direction | Minimal / Luxury / Corporate |
-| Primary Colors | Black and White |
-| Primary Logo | Mehkam Symbol |
+| Property         | Value                                       |
+| ---------------- | ------------------------------------------- |
+| Organization     | Mehkam Holding                              |
+| Document Type    | Certificate and Recognition Template System |
+| Primary Language | English                                     |
+| Typography       | Peyda                                       |
+| Visual Direction | Minimal / Luxury / Corporate                |
+| Primary Colors   | Black and White                             |
+| Primary Logo     | Mehkam Symbol                               |
 
 # 2. System Scope
 
@@ -452,6 +452,6 @@ All future Mehkam certificates and recognition documents shall follow this syste
 
 # Document History
 
-| Version | Date | Author | Description |
-|---|---|---|---|
-| 1.0.0 | 2026-08-16 | Erfan Abouei | Initial Certificate and Recognition Template System specification |
+| Version | Date       | Author       | Description                                                       |
+| ------- | ---------- | ------------ | ----------------------------------------------------------------- |
+| 1.0.0   | 2026-08-16 | Erfan Abouei | Initial Certificate and Recognition Template System specification |

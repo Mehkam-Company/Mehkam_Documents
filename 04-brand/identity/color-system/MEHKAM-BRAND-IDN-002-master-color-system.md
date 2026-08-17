@@ -36,7 +36,7 @@ related_documents:
 ---
 
 <div align="center">
-  <img src="../../assets/logo/mehkam-symbol.svg" alt="Mehkam Logo" width="150" />
+  <img src="../../assets/logo/png/mehkam-symbol-white-2048w.png" alt="Mehkam Logo" width="150" />
 </div>
 
 ## Overview

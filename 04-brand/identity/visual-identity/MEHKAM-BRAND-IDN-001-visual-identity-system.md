@@ -34,7 +34,7 @@ related_documents:
 ---
 
 <div align="center">
-  <img src="../../assets/logo/mehkam-symbol.svg" alt="Mehkam Logo" width="150" />
+  <img src="../../assets/logo/png/mehkam-symbol-white-2048w.png" alt="Mehkam Logo" width="150" />
 </div>
 
 ## Overview
@@ -872,6 +872,6 @@ The fundamental objective is to ensure that every Mehkam visual expression commu
 
 # Document History
 
-| Version | Date | Author | Description |
-| ------- | ---- | ------ | ----------- |
-| 1.0.0 | 2026-08-11 | Erfan Abouei | Initial Visual Identity System established from approved visual principles, imagery direction, composition rules, and prohibited styles |
+| Version | Date       | Author       | Description                                                                                                                             |
+| ------- | ---------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.0.0   | 2026-08-11 | Erfan Abouei | Initial Visual Identity System established from approved visual principles, imagery direction, composition rules, and prohibited styles |

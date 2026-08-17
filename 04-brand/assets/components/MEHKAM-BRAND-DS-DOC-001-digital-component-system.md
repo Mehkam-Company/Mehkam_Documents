@@ -24,6 +24,12 @@ related_documents: []
 
 # Mehkam Digital Brand Component System
 
+---
+
+<div align="center">
+  <img src="../../assets/logo/png/mehkam-symbol-white-2048w.png" alt="Mehkam Logo" width="150" />
+</div>
+
 ## Overview
 
 This document defines the reusable digital visual components used across the Mehkam digital ecosystem.

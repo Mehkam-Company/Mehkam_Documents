@@ -32,7 +32,7 @@ related_documents:
 # Brand Hierarchy
 
 <div align="center">
-  <img src="../../04-brand/assets/logo/mehkam-symbol.svg" alt="Mehkam Logo" width="150" />
+  <img src="../assets/logo/png/mehkam-symbol-white-2048w.png" alt="Mehkam Logo" width="150" />
 </div>
 
 ## Overview
